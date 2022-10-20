@@ -1,0 +1,1957 @@
+﻿ID,INITIAL,GOAL,BEBAN MUATAN (TON),REWARD,JENIS
+1,Kabupaten Bondowoso,Kabupaten Pacitan,15,1655000,GAS
+2,Kabupaten Bondowoso,Kabupaten Pacitan,25,2005000,PADAT
+3,Kabupaten Bondowoso,Kabupaten Pacitan,30,2180000,CAIR
+4,Kabupaten Bondowoso,Kabupaten Ponorogo,15,1465000,GAS
+5,Kabupaten Bondowoso,Kabupaten Ponorogo,25,1815000,PADAT
+6,Kabupaten Bondowoso,Kabupaten Ponorogo,30,1990000,CAIR
+7,Kabupaten Bondowoso,Kabupaten Trenggalek,15,1425000,GAS
+8,Kabupaten Bondowoso,Kabupaten Trenggalek,25,1775000,PADAT
+9,Kabupaten Bondowoso,Kabupaten Trenggalek,30,1950000,CAIR
+10,Kabupaten Bondowoso,Kabupaten Tulungagung,15,1352500,GAS
+11,Kabupaten Bondowoso,Kabupaten Tulungagung,25,1702500,PADAT
+12,Kabupaten Bondowoso,Kabupaten Tulungagung,30,1877500,CAIR
+13,Kabupaten Bondowoso,Kabupaten Kediri,15,1277500,GAS
+14,Kabupaten Bondowoso,Kabupaten Kediri,25,1627500,PADAT
+15,Kabupaten Bondowoso,Kabupaten Kediri,30,1802500,CAIR
+16,Kabupaten Bondowoso,Kabupaten Lumajang,15,772500,GAS
+17,Kabupaten Bondowoso,Kabupaten Lumajang,25,1122500,PADAT
+18,Kabupaten Bondowoso,Kabupaten Lumajang,30,1297500,CAIR
+19,Kabupaten Bondowoso,Kabupaten Jember,15,610000,GAS
+20,Kabupaten Bondowoso,Kabupaten Jember,25,960000,PADAT
+21,Kabupaten Bondowoso,Kabupaten Jember,30,1135000,CAIR
+22,Kabupaten Bondowoso,Kabupaten Banyuwangi,15,770000,GAS
+23,Kabupaten Bondowoso,Kabupaten Banyuwangi,25,1120000,PADAT
+24,Kabupaten Bondowoso,Kabupaten Banyuwangi,30,1295000,CAIR
+25,Kabupaten Bondowoso,Kabupaten Situbondo,15,612500,GAS
+26,Kabupaten Bondowoso,Kabupaten Situbondo,25,962500,PADAT
+27,Kabupaten Bondowoso,Kabupaten Situbondo,30,1137500,CAIR
+28,Kabupaten Bondowoso,Kota Probolinggo,15,760000,GAS
+29,Kabupaten Bondowoso,Kota Probolinggo,25,1110000,PADAT
+30,Kabupaten Bondowoso,Kota Probolinggo,30,1285000,CAIR
+31,Kabupaten Bondowoso,Kota Pasuruan,15,852500,GAS
+32,Kabupaten Bondowoso,Kota Pasuruan,25,1202500,PADAT
+33,Kabupaten Bondowoso,Kota Pasuruan,30,1377500,CAIR
+34,Kabupaten Bondowoso,Kabupaten Sidoarjo,15,990000,GAS
+35,Kabupaten Bondowoso,Kabupaten Sidoarjo,25,1340000,PADAT
+36,Kabupaten Bondowoso,Kabupaten Sidoarjo,30,1515000,CAIR
+37,Kabupaten Bondowoso,Kota Mojokerto,15,1110000,GAS
+38,Kabupaten Bondowoso,Kota Mojokerto,25,1460000,PADAT
+39,Kabupaten Bondowoso,Kota Mojokerto,30,1635000,CAIR
+40,Kabupaten Bondowoso,Kabupaten Jombang,15,1180000,GAS
+41,Kabupaten Bondowoso,Kabupaten Jombang,25,1530000,PADAT
+42,Kabupaten Bondowoso,Kabupaten Jombang,30,1705000,CAIR
+43,Kabupaten Bondowoso,Kabupaten Nganjuk,15,1267500,GAS
+44,Kabupaten Bondowoso,Kabupaten Nganjuk,25,1617500,PADAT
+45,Kabupaten Bondowoso,Kabupaten Nganjuk,30,1792500,CAIR
+46,Kabupaten Bondowoso,Kota Madiun,15,1390000,GAS
+47,Kabupaten Bondowoso,Kota Madiun,25,1740000,PADAT
+48,Kabupaten Bondowoso,Kota Madiun,30,1915000,CAIR
+49,Kabupaten Bondowoso,Kabupaten Magetan,15,1452500,GAS
+50,Kabupaten Bondowoso,Kabupaten Magetan,25,1802500,PADAT
+51,Kabupaten Bondowoso,Kabupaten Magetan,30,1977500,CAIR
+52,Kabupaten Bondowoso,Kabupaten Ngawi,15,1440000,GAS
+53,Kabupaten Bondowoso,Kabupaten Ngawi,25,1790000,PADAT
+54,Kabupaten Bondowoso,Kabupaten Ngawi,30,1965000,CAIR
+55,Kabupaten Bondowoso,Kabupaten Bojonegoro,15,1305000,GAS
+56,Kabupaten Bondowoso,Kabupaten Bojonegoro,25,1655000,PADAT
+57,Kabupaten Bondowoso,Kabupaten Bojonegoro,30,1830000,CAIR
+58,Kabupaten Bondowoso,Kabupaten Tuban,15,1277500,GAS
+59,Kabupaten Bondowoso,Kabupaten Tuban,25,1627500,PADAT
+60,Kabupaten Bondowoso,Kabupaten Tuban,30,1802500,CAIR
+61,Kabupaten Bondowoso,Kabupaten Lamongan,15,1142500,GAS
+62,Kabupaten Bondowoso,Kabupaten Lamongan,25,1492500,PADAT
+63,Kabupaten Bondowoso,Kabupaten Lamongan,30,1667500,CAIR
+64,Kabupaten Bondowoso,Kabupaten Gresik,15,1082500,GAS
+65,Kabupaten Bondowoso,Kabupaten Gresik,25,1432500,PADAT
+66,Kabupaten Bondowoso,Kabupaten Gresik,30,1607500,CAIR
+67,Kabupaten Bondowoso,Kabupaten Bangkalan,15,1135000,GAS
+68,Kabupaten Bondowoso,Kabupaten Bangkalan,25,1485000,PADAT
+69,Kabupaten Bondowoso,Kabupaten Bangkalan,30,1660000,CAIR
+70,Kabupaten Bondowoso,Kabupaten Sampang,15,1260000,GAS
+71,Kabupaten Bondowoso,Kabupaten Sampang,25,1610000,PADAT
+72,Kabupaten Bondowoso,Kabupaten Sampang,30,1785000,CAIR
+73,Kabupaten Bondowoso,Kabupaten Pamekasan,15,1337500,GAS
+74,Kabupaten Bondowoso,Kabupaten Pamekasan,25,1687500,PADAT
+75,Kabupaten Bondowoso,Kabupaten Pamekasan,30,1862500,CAIR
+76,Kabupaten Bondowoso,Kabupaten Sumenep,15,1470000,GAS
+77,Kabupaten Bondowoso,Kabupaten Sumenep,25,1820000,PADAT
+78,Kabupaten Bondowoso,Kabupaten Sumenep,30,1995000,CAIR
+79,Kabupaten Bondowoso,Kota Surabaya,15,1042500,GAS
+80,Kabupaten Bondowoso,Kota Surabaya,25,1392500,PADAT
+81,Kabupaten Bondowoso,Kota Surabaya,30,1567500,CAIR
+82,Kabupaten Bondowoso,Kota Blitar,15,1270000,GAS
+83,Kabupaten Bondowoso,Kota Blitar,25,1620000,PADAT
+84,Kabupaten Bondowoso,Kota Blitar,30,1795000,CAIR
+85,Kabupaten Bondowoso,Kota Malang,15,1065000,GAS
+86,Kabupaten Bondowoso,Kota Malang,25,1415000,PADAT
+87,Kabupaten Bondowoso,Kota Malang,30,1590000,CAIR
+88,Kabupaten Situbondo,Kabupaten Pacitan,15,1665000,GAS
+89,Kabupaten Situbondo,Kabupaten Pacitan,25,2015000,PADAT
+90,Kabupaten Situbondo,Kabupaten Pacitan,30,2190000,CAIR
+91,Kabupaten Situbondo,Kabupaten Ponorogo,15,1472500,GAS
+92,Kabupaten Situbondo,Kabupaten Ponorogo,25,1822500,PADAT
+93,Kabupaten Situbondo,Kabupaten Ponorogo,30,1997500,CAIR
+94,Kabupaten Situbondo,Kabupaten Trenggalek,15,1435000,GAS
+95,Kabupaten Situbondo,Kabupaten Trenggalek,25,1785000,PADAT
+96,Kabupaten Situbondo,Kabupaten Trenggalek,30,1960000,CAIR
+97,Kabupaten Situbondo,Kabupaten Tulungagung,15,1362500,GAS
+98,Kabupaten Situbondo,Kabupaten Tulungagung,25,1712500,PADAT
+99,Kabupaten Situbondo,Kabupaten Tulungagung,30,1887500,CAIR
+100,Kabupaten Situbondo,Kabupaten Kediri,15,1287500,GAS
+101,Kabupaten Situbondo,Kabupaten Kediri,25,1637500,PADAT
+102,Kabupaten Situbondo,Kabupaten Kediri,30,1812500,CAIR
+103,Kabupaten Situbondo,Kabupaten Lumajang,15,850000,GAS
+104,Kabupaten Situbondo,Kabupaten Lumajang,25,1200000,PADAT
+105,Kabupaten Situbondo,Kabupaten Lumajang,30,1375000,CAIR
+106,Kabupaten Situbondo,Kabupaten Jember,15,700000,GAS
+107,Kabupaten Situbondo,Kabupaten Jember,25,1050000,PADAT
+108,Kabupaten Situbondo,Kabupaten Jember,30,1225000,CAIR
+109,Kabupaten Situbondo,Kabupaten Banyuwangi,15,762500,GAS
+110,Kabupaten Situbondo,Kabupaten Banyuwangi,25,1112500,PADAT
+111,Kabupaten Situbondo,Kabupaten Banyuwangi,30,1287500,CAIR
+112,Kabupaten Situbondo,Kabupaten Bondowoso,15,622500,GAS
+113,Kabupaten Situbondo,Kabupaten Bondowoso,25,972500,PADAT
+114,Kabupaten Situbondo,Kabupaten Bondowoso,30,1147500,CAIR
+115,Kabupaten Situbondo,Kota Probolinggo,15,770000,GAS
+116,Kabupaten Situbondo,Kota Probolinggo,25,1120000,PADAT
+117,Kabupaten Situbondo,Kota Probolinggo,30,1295000,CAIR
+118,Kabupaten Situbondo,Kota Pasuruan,15,860000,GAS
+119,Kabupaten Situbondo,Kota Pasuruan,25,1210000,PADAT
+120,Kabupaten Situbondo,Kota Pasuruan,30,1385000,CAIR
+121,Kabupaten Situbondo,Kabupaten Sidoarjo,15,1000000,GAS
+122,Kabupaten Situbondo,Kabupaten Sidoarjo,25,1350000,PADAT
+123,Kabupaten Situbondo,Kabupaten Sidoarjo,30,1525000,CAIR
+124,Kabupaten Situbondo,Kota Mojokerto,15,1120000,GAS
+125,Kabupaten Situbondo,Kota Mojokerto,25,1470000,PADAT
+126,Kabupaten Situbondo,Kota Mojokerto,30,1645000,CAIR
+127,Kabupaten Situbondo,Kabupaten Jombang,15,1190000,GAS
+128,Kabupaten Situbondo,Kabupaten Jombang,25,1540000,PADAT
+129,Kabupaten Situbondo,Kabupaten Jombang,30,1715000,CAIR
+130,Kabupaten Situbondo,Kabupaten Nganjuk,15,1275000,GAS
+131,Kabupaten Situbondo,Kabupaten Nganjuk,25,1625000,PADAT
+132,Kabupaten Situbondo,Kabupaten Nganjuk,30,1800000,CAIR
+133,Kabupaten Situbondo,Kota Madiun,15,1400000,GAS
+134,Kabupaten Situbondo,Kota Madiun,25,1750000,PADAT
+135,Kabupaten Situbondo,Kota Madiun,30,1925000,CAIR
+136,Kabupaten Situbondo,Kabupaten Magetan,15,1460000,GAS
+137,Kabupaten Situbondo,Kabupaten Magetan,25,1810000,PADAT
+138,Kabupaten Situbondo,Kabupaten Magetan,30,1985000,CAIR
+139,Kabupaten Situbondo,Kabupaten Ngawi,15,1450000,GAS
+140,Kabupaten Situbondo,Kabupaten Ngawi,25,1800000,PADAT
+141,Kabupaten Situbondo,Kabupaten Ngawi,30,1975000,CAIR
+142,Kabupaten Situbondo,Kabupaten Bojonegoro,15,1425000,GAS
+143,Kabupaten Situbondo,Kabupaten Bojonegoro,25,1775000,PADAT
+144,Kabupaten Situbondo,Kabupaten Bojonegoro,30,1950000,CAIR
+145,Kabupaten Situbondo,Kabupaten Tuban,15,1287500,GAS
+146,Kabupaten Situbondo,Kabupaten Tuban,25,1637500,PADAT
+147,Kabupaten Situbondo,Kabupaten Tuban,30,1812500,CAIR
+148,Kabupaten Situbondo,Kabupaten Lamongan,15,1152500,GAS
+149,Kabupaten Situbondo,Kabupaten Lamongan,25,1502500,PADAT
+150,Kabupaten Situbondo,Kabupaten Lamongan,30,1677500,CAIR
+151,Kabupaten Situbondo,Kabupaten Gresik,15,1090000,GAS
+152,Kabupaten Situbondo,Kabupaten Gresik,25,1440000,PADAT
+153,Kabupaten Situbondo,Kabupaten Gresik,30,1615000,CAIR
+154,Kabupaten Situbondo,Kabupaten Bangkalan,15,1142500,GAS
+155,Kabupaten Situbondo,Kabupaten Bangkalan,25,1492500,PADAT
+156,Kabupaten Situbondo,Kabupaten Bangkalan,30,1667500,CAIR
+157,Kabupaten Situbondo,Kabupaten Sampang,15,1267500,GAS
+158,Kabupaten Situbondo,Kabupaten Sampang,25,1617500,PADAT
+159,Kabupaten Situbondo,Kabupaten Sampang,30,1792500,CAIR
+160,Kabupaten Situbondo,Kabupaten Pamekasan,15,1345000,GAS
+161,Kabupaten Situbondo,Kabupaten Pamekasan,25,1695000,PADAT
+162,Kabupaten Situbondo,Kabupaten Pamekasan,30,1870000,CAIR
+163,Kabupaten Situbondo,Kabupaten Sumenep,15,1477500,GAS
+164,Kabupaten Situbondo,Kabupaten Sumenep,25,1827500,PADAT
+165,Kabupaten Situbondo,Kabupaten Sumenep,30,2002500,CAIR
+166,Kabupaten Situbondo,Kota Surabaya,15,1052500,GAS
+167,Kabupaten Situbondo,Kota Surabaya,25,1402500,PADAT
+168,Kabupaten Situbondo,Kota Surabaya,30,1577500,CAIR
+169,Kabupaten Situbondo,Kota Blitar,15,1262500,GAS
+170,Kabupaten Situbondo,Kota Blitar,25,1612500,PADAT
+171,Kabupaten Situbondo,Kota Blitar,30,1787500,CAIR
+172,Kabupaten Situbondo,Kota Malang,15,1072500,GAS
+173,Kabupaten Situbondo,Kota Malang,25,1422500,PADAT
+174,Kabupaten Situbondo,Kota Malang,30,1597500,CAIR
+175,Kota Probolinggo,Kabupaten Pacitan,15,1572500,GAS
+176,Kota Probolinggo,Kabupaten Pacitan,25,1922500,PADAT
+177,Kota Probolinggo,Kabupaten Pacitan,30,2097500,CAIR
+178,Kota Probolinggo,Kabupaten Ponorogo,15,1220000,GAS
+179,Kota Probolinggo,Kabupaten Ponorogo,25,1570000,PADAT
+180,Kota Probolinggo,Kabupaten Ponorogo,30,1745000,CAIR
+181,Kota Probolinggo,Kabupaten Trenggalek,15,1180000,GAS
+182,Kota Probolinggo,Kabupaten Trenggalek,25,1530000,PADAT
+183,Kota Probolinggo,Kabupaten Trenggalek,30,1705000,CAIR
+184,Kota Probolinggo,Kabupaten Tulungagung,15,1107500,GAS
+185,Kota Probolinggo,Kabupaten Tulungagung,25,1457500,PADAT
+186,Kota Probolinggo,Kabupaten Tulungagung,30,1632500,CAIR
+187,Kota Probolinggo,Kabupaten Kediri,15,1032500,GAS
+188,Kota Probolinggo,Kabupaten Kediri,25,1382500,PADAT
+189,Kota Probolinggo,Kabupaten Kediri,30,1557500,CAIR
+190,Kota Probolinggo,Kabupaten Lumajang,15,645000,GAS
+191,Kota Probolinggo,Kabupaten Lumajang,25,995000,PADAT
+192,Kota Probolinggo,Kabupaten Lumajang,30,1170000,CAIR
+193,Kota Probolinggo,Kabupaten Jember,15,770000,GAS
+194,Kota Probolinggo,Kabupaten Jember,25,1120000,PADAT
+195,Kota Probolinggo,Kabupaten Jember,30,1295000,CAIR
+196,Kota Probolinggo,Kabupaten Banyuwangi,15,1002500,GAS
+197,Kota Probolinggo,Kabupaten Banyuwangi,25,1352500,PADAT
+198,Kota Probolinggo,Kabupaten Banyuwangi,30,1527500,CAIR
+199,Kota Probolinggo,Kabupaten Bondowoso,15,760000,GAS
+200,Kota Probolinggo,Kabupaten Bondowoso,25,1110000,PADAT
+201,Kota Probolinggo,Kabupaten Bondowoso,30,1285000,CAIR
+202,Kota Probolinggo,Kabupaten Situbondo,15,770000,GAS
+203,Kota Probolinggo,Kabupaten Situbondo,25,1120000,PADAT
+204,Kota Probolinggo,Kabupaten Situbondo,30,1295000,CAIR
+205,Kota Probolinggo,Kota Pasuruan,15,652500,GAS
+206,Kota Probolinggo,Kota Pasuruan,25,1002500,PADAT
+207,Kota Probolinggo,Kota Pasuruan,30,1177500,CAIR
+208,Kota Probolinggo,Kabupaten Sidoarjo,15,747500,GAS
+209,Kota Probolinggo,Kabupaten Sidoarjo,25,1097500,PADAT
+210,Kota Probolinggo,Kabupaten Sidoarjo,30,1272500,CAIR
+211,Kota Probolinggo,Kota Mojokerto,15,865000,GAS
+212,Kota Probolinggo,Kota Mojokerto,25,1215000,PADAT
+213,Kota Probolinggo,Kota Mojokerto,30,1390000,CAIR
+214,Kota Probolinggo,Kabupaten Jombang,15,935000,GAS
+215,Kota Probolinggo,Kabupaten Jombang,25,1285000,PADAT
+216,Kota Probolinggo,Kabupaten Jombang,30,1460000,CAIR
+217,Kota Probolinggo,Kabupaten Nganjuk,15,1022500,GAS
+218,Kota Probolinggo,Kabupaten Nganjuk,25,1372500,PADAT
+219,Kota Probolinggo,Kabupaten Nganjuk,30,1547500,CAIR
+220,Kota Probolinggo,Kota Madiun,15,1147500,GAS
+221,Kota Probolinggo,Kota Madiun,25,1497500,PADAT
+222,Kota Probolinggo,Kota Madiun,30,1672500,CAIR
+223,Kota Probolinggo,Kabupaten Magetan,15,1207500,GAS
+224,Kota Probolinggo,Kabupaten Magetan,25,1557500,PADAT
+225,Kota Probolinggo,Kabupaten Magetan,30,1732500,CAIR
+226,Kota Probolinggo,Kabupaten Ngawi,15,1195000,GAS
+227,Kota Probolinggo,Kabupaten Ngawi,25,1545000,PADAT
+228,Kota Probolinggo,Kabupaten Ngawi,30,1720000,CAIR
+229,Kota Probolinggo,Kabupaten Bojonegoro,15,1170000,GAS
+230,Kota Probolinggo,Kabupaten Bojonegoro,25,1520000,PADAT
+231,Kota Probolinggo,Kabupaten Bojonegoro,30,1695000,CAIR
+232,Kota Probolinggo,Kabupaten Tuban,15,1032500,GAS
+233,Kota Probolinggo,Kabupaten Tuban,25,1382500,PADAT
+234,Kota Probolinggo,Kabupaten Tuban,30,1557500,CAIR
+235,Kota Probolinggo,Kabupaten Lamongan,15,900000,GAS
+236,Kota Probolinggo,Kabupaten Lamongan,25,1250000,PADAT
+237,Kota Probolinggo,Kabupaten Lamongan,30,1425000,CAIR
+238,Kota Probolinggo,Kabupaten Gresik,15,837500,GAS
+239,Kota Probolinggo,Kabupaten Gresik,25,1187500,PADAT
+240,Kota Probolinggo,Kabupaten Gresik,30,1362500,CAIR
+241,Kota Probolinggo,Kabupaten Bangkalan,15,890000,GAS
+242,Kota Probolinggo,Kabupaten Bangkalan,25,1240000,PADAT
+243,Kota Probolinggo,Kabupaten Bangkalan,30,1415000,CAIR
+244,Kota Probolinggo,Kabupaten Sampang,15,1015000,GAS
+245,Kota Probolinggo,Kabupaten Sampang,25,1365000,PADAT
+246,Kota Probolinggo,Kabupaten Sampang,30,1540000,CAIR
+247,Kota Probolinggo,Kabupaten Pamekasan,15,1092500,GAS
+248,Kota Probolinggo,Kabupaten Pamekasan,25,1442500,PADAT
+249,Kota Probolinggo,Kabupaten Pamekasan,30,1617500,CAIR
+250,Kota Probolinggo,Kabupaten Sumenep,15,1225000,GAS
+251,Kota Probolinggo,Kabupaten Sumenep,25,1575000,PADAT
+252,Kota Probolinggo,Kabupaten Sumenep,30,1750000,CAIR
+253,Kota Probolinggo,Kota Surabaya,15,797500,GAS
+254,Kota Probolinggo,Kota Surabaya,25,1147500,PADAT
+255,Kota Probolinggo,Kota Surabaya,30,1322500,CAIR
+256,Kota Probolinggo,Kota Blitar,15,1010000,GAS
+257,Kota Probolinggo,Kota Blitar,25,1360000,PADAT
+258,Kota Probolinggo,Kota Blitar,30,1535000,CAIR
+259,Kota Probolinggo,Kota Malang,15,820000,GAS
+260,Kota Probolinggo,Kota Malang,25,1170000,PADAT
+261,Kota Probolinggo,Kota Malang,30,1345000,CAIR
+262,Kota Pasuruan,Kabupaten Pacitan,15,1310000,GAS
+263,Kota Pasuruan,Kabupaten Pacitan,25,1660000,PADAT
+264,Kota Pasuruan,Kabupaten Pacitan,30,1835000,CAIR
+265,Kota Pasuruan,Kabupaten Ponorogo,15,1120000,GAS
+266,Kota Pasuruan,Kabupaten Ponorogo,25,1470000,PADAT
+267,Kota Pasuruan,Kabupaten Ponorogo,30,1645000,CAIR
+268,Kota Pasuruan,Kabupaten Trenggalek,15,1080000,GAS
+269,Kota Pasuruan,Kabupaten Trenggalek,25,1430000,PADAT
+270,Kota Pasuruan,Kabupaten Trenggalek,30,1605000,CAIR
+271,Kota Pasuruan,Kabupaten Tulungagung,15,1007500,GAS
+272,Kota Pasuruan,Kabupaten Tulungagung,25,1357500,PADAT
+273,Kota Pasuruan,Kabupaten Tulungagung,30,1532500,CAIR
+274,Kota Pasuruan,Kabupaten Kediri,15,932500,GAS
+275,Kota Pasuruan,Kabupaten Kediri,25,1282500,PADAT
+276,Kota Pasuruan,Kabupaten Kediri,30,1457500,CAIR
+277,Kota Pasuruan,Kabupaten Lumajang,15,745000,GAS
+278,Kota Pasuruan,Kabupaten Lumajang,25,1095000,PADAT
+279,Kota Pasuruan,Kabupaten Lumajang,30,1270000,CAIR
+280,Kota Pasuruan,Kabupaten Jember,15,867500,GAS
+281,Kota Pasuruan,Kabupaten Jember,25,1217500,PADAT
+282,Kota Pasuruan,Kabupaten Jember,30,1392500,CAIR
+283,Kota Pasuruan,Kabupaten Banyuwangi,15,1140000,GAS
+284,Kota Pasuruan,Kabupaten Banyuwangi,25,1490000,PADAT
+285,Kota Pasuruan,Kabupaten Banyuwangi,30,1665000,CAIR
+286,Kota Pasuruan,Kabupaten Bondowoso,15,895000,GAS
+287,Kota Pasuruan,Kabupaten Bondowoso,25,1245000,PADAT
+288,Kota Pasuruan,Kabupaten Bondowoso,30,1420000,CAIR
+289,Kota Pasuruan,Kabupaten Situbondo,15,905000,GAS
+290,Kota Pasuruan,Kabupaten Situbondo,25,1255000,PADAT
+291,Kota Pasuruan,Kabupaten Situbondo,30,1430000,CAIR
+292,Kota Pasuruan,Kota Probolinggo,15,647500,GAS
+293,Kota Pasuruan,Kota Probolinggo,25,997500,PADAT
+294,Kota Pasuruan,Kota Probolinggo,30,1172500,CAIR
+295,Kota Pasuruan,Kabupaten Sidoarjo,15,647500,GAS
+296,Kota Pasuruan,Kabupaten Sidoarjo,25,997500,PADAT
+297,Kota Pasuruan,Kabupaten Sidoarjo,30,1172500,CAIR
+298,Kota Pasuruan,Kota Mojokerto,15,765000,GAS
+299,Kota Pasuruan,Kota Mojokerto,25,1115000,PADAT
+300,Kota Pasuruan,Kota Mojokerto,30,1290000,CAIR
+301,Kota Pasuruan,Kabupaten Jombang,15,835000,GAS
+302,Kota Pasuruan,Kabupaten Jombang,25,1185000,PADAT
+303,Kota Pasuruan,Kabupaten Jombang,30,1360000,CAIR
+304,Kota Pasuruan,Kabupaten Nganjuk,15,922500,GAS
+305,Kota Pasuruan,Kabupaten Nganjuk,25,1272500,PADAT
+306,Kota Pasuruan,Kabupaten Nganjuk,30,1447500,CAIR
+307,Kota Pasuruan,Kota Madiun,15,1045000,GAS
+308,Kota Pasuruan,Kota Madiun,25,1395000,PADAT
+309,Kota Pasuruan,Kota Madiun,30,1570000,CAIR
+310,Kota Pasuruan,Kabupaten Magetan,15,1105000,GAS
+311,Kota Pasuruan,Kabupaten Magetan,25,1455000,PADAT
+312,Kota Pasuruan,Kabupaten Magetan,30,1630000,CAIR
+313,Kota Pasuruan,Kabupaten Ngawi,15,1095000,GAS
+314,Kota Pasuruan,Kabupaten Ngawi,25,1445000,PADAT
+315,Kota Pasuruan,Kabupaten Ngawi,30,1620000,CAIR
+316,Kota Pasuruan,Kabupaten Bojonegoro,15,1067500,GAS
+317,Kota Pasuruan,Kabupaten Bojonegoro,25,1417500,PADAT
+318,Kota Pasuruan,Kabupaten Bojonegoro,30,1592500,CAIR
+319,Kota Pasuruan,Kabupaten Tuban,15,932500,GAS
+320,Kota Pasuruan,Kabupaten Tuban,25,1282500,PADAT
+321,Kota Pasuruan,Kabupaten Tuban,30,1457500,CAIR
+322,Kota Pasuruan,Kabupaten Lamongan,15,797500,GAS
+323,Kota Pasuruan,Kabupaten Lamongan,25,1147500,PADAT
+324,Kota Pasuruan,Kabupaten Lamongan,30,1322500,CAIR
+325,Kota Pasuruan,Kabupaten Gresik,15,737500,GAS
+326,Kota Pasuruan,Kabupaten Gresik,25,1087500,PADAT
+327,Kota Pasuruan,Kabupaten Gresik,30,1262500,CAIR
+328,Kota Pasuruan,Kabupaten Bangkalan,15,790000,GAS
+329,Kota Pasuruan,Kabupaten Bangkalan,25,1140000,PADAT
+330,Kota Pasuruan,Kabupaten Bangkalan,30,1315000,CAIR
+331,Kota Pasuruan,Kabupaten Sampang,15,915000,GAS
+332,Kota Pasuruan,Kabupaten Sampang,25,1265000,PADAT
+333,Kota Pasuruan,Kabupaten Sampang,30,1440000,CAIR
+334,Kota Pasuruan,Kabupaten Pamekasan,15,990000,GAS
+335,Kota Pasuruan,Kabupaten Pamekasan,25,1340000,PADAT
+336,Kota Pasuruan,Kabupaten Pamekasan,30,1515000,CAIR
+337,Kota Pasuruan,Kabupaten Sumenep,15,1122500,GAS
+338,Kota Pasuruan,Kabupaten Sumenep,25,1472500,PADAT
+339,Kota Pasuruan,Kabupaten Sumenep,30,1647500,CAIR
+340,Kota Pasuruan,Kota Surabaya,15,697500,GAS
+341,Kota Pasuruan,Kota Surabaya,25,1047500,PADAT
+342,Kota Pasuruan,Kota Surabaya,30,1222500,CAIR
+343,Kota Pasuruan,Kota Blitar,15,910000,GAS
+344,Kota Pasuruan,Kota Blitar,25,1260000,PADAT
+345,Kota Pasuruan,Kota Blitar,30,1435000,CAIR
+346,Kota Pasuruan,Kota Malang,15,720000,GAS
+347,Kota Pasuruan,Kota Malang,25,1070000,PADAT
+348,Kota Pasuruan,Kota Malang,30,1245000,CAIR
+349,Kabupaten Sidoarjo,Kabupaten Pacitan,15,1207500,GAS
+350,Kabupaten Sidoarjo,Kabupaten Pacitan,25,1557500,PADAT
+351,Kabupaten Sidoarjo,Kabupaten Pacitan,30,1732500,CAIR
+352,Kabupaten Sidoarjo,Kabupaten Ponorogo,15,1017500,GAS
+353,Kabupaten Sidoarjo,Kabupaten Ponorogo,25,1367500,PADAT
+354,Kabupaten Sidoarjo,Kabupaten Ponorogo,30,1542500,CAIR
+355,Kabupaten Sidoarjo,Kabupaten Trenggalek,15,977500,GAS
+356,Kabupaten Sidoarjo,Kabupaten Trenggalek,25,1327500,PADAT
+357,Kabupaten Sidoarjo,Kabupaten Trenggalek,30,1502500,CAIR
+358,Kabupaten Sidoarjo,Kabupaten Tulungagung,15,905000,GAS
+359,Kabupaten Sidoarjo,Kabupaten Tulungagung,25,1255000,PADAT
+360,Kabupaten Sidoarjo,Kabupaten Tulungagung,30,1430000,CAIR
+361,Kabupaten Sidoarjo,Kabupaten Kediri,15,830000,GAS
+362,Kabupaten Sidoarjo,Kabupaten Kediri,25,1180000,PADAT
+363,Kabupaten Sidoarjo,Kabupaten Kediri,30,1355000,CAIR
+364,Kabupaten Sidoarjo,Kabupaten Lumajang,15,842500,GAS
+365,Kabupaten Sidoarjo,Kabupaten Lumajang,25,1192500,PADAT
+366,Kabupaten Sidoarjo,Kabupaten Lumajang,30,1367500,CAIR
+367,Kabupaten Sidoarjo,Kabupaten Jember,15,967500,GAS
+368,Kabupaten Sidoarjo,Kabupaten Jember,25,1317500,PADAT
+369,Kabupaten Sidoarjo,Kabupaten Jember,30,1492500,CAIR
+370,Kabupaten Sidoarjo,Kabupaten Banyuwangi,15,1237500,GAS
+371,Kabupaten Sidoarjo,Kabupaten Banyuwangi,25,1587500,PADAT
+372,Kabupaten Sidoarjo,Kabupaten Banyuwangi,30,1762500,CAIR
+373,Kabupaten Sidoarjo,Kabupaten Bondowoso,15,992500,GAS
+374,Kabupaten Sidoarjo,Kabupaten Bondowoso,25,1342500,PADAT
+375,Kabupaten Sidoarjo,Kabupaten Bondowoso,30,1517500,CAIR
+376,Kabupaten Sidoarjo,Kabupaten Situbondo,15,1002500,GAS
+377,Kabupaten Sidoarjo,Kabupaten Situbondo,25,1352500,PADAT
+378,Kabupaten Sidoarjo,Kabupaten Situbondo,30,1527500,CAIR
+379,Kabupaten Sidoarjo,Kota Probolinggo,15,730000,GAS
+380,Kabupaten Sidoarjo,Kota Probolinggo,25,1080000,PADAT
+381,Kabupaten Sidoarjo,Kota Probolinggo,30,1255000,CAIR
+382,Kabupaten Sidoarjo,Kota Pasuruan,15,647500,GAS
+383,Kabupaten Sidoarjo,Kota Pasuruan,25,997500,PADAT
+384,Kabupaten Sidoarjo,Kota Pasuruan,30,1172500,CAIR
+385,Kabupaten Sidoarjo,Kota Mojokerto,15,657500,GAS
+386,Kabupaten Sidoarjo,Kota Mojokerto,25,1007500,PADAT
+387,Kabupaten Sidoarjo,Kota Mojokerto,30,1182500,CAIR
+388,Kabupaten Sidoarjo,Kabupaten Jombang,15,732500,GAS
+389,Kabupaten Sidoarjo,Kabupaten Jombang,25,1082500,PADAT
+390,Kabupaten Sidoarjo,Kabupaten Jombang,30,1257500,CAIR
+391,Kabupaten Sidoarjo,Kabupaten Nganjuk,15,820000,GAS
+392,Kabupaten Sidoarjo,Kabupaten Nganjuk,25,1170000,PADAT
+393,Kabupaten Sidoarjo,Kabupaten Nganjuk,30,1345000,CAIR
+394,Kabupaten Sidoarjo,Kota Madiun,15,942500,GAS
+395,Kabupaten Sidoarjo,Kota Madiun,25,1292500,PADAT
+396,Kabupaten Sidoarjo,Kota Madiun,30,1467500,CAIR
+397,Kabupaten Sidoarjo,Kabupaten Magetan,15,1002500,GAS
+398,Kabupaten Sidoarjo,Kabupaten Magetan,25,1352500,PADAT
+399,Kabupaten Sidoarjo,Kabupaten Magetan,30,1527500,CAIR
+400,Kabupaten Sidoarjo,Kabupaten Ngawi,15,992500,GAS
+401,Kabupaten Sidoarjo,Kabupaten Ngawi,25,1342500,PADAT
+402,Kabupaten Sidoarjo,Kabupaten Ngawi,30,1517500,CAIR
+403,Kabupaten Sidoarjo,Kabupaten Bojonegoro,15,857500,GAS
+404,Kabupaten Sidoarjo,Kabupaten Bojonegoro,25,1207500,PADAT
+405,Kabupaten Sidoarjo,Kabupaten Bojonegoro,30,1382500,CAIR
+406,Kabupaten Sidoarjo,Kabupaten Tuban,15,830000,GAS
+407,Kabupaten Sidoarjo,Kabupaten Tuban,25,1180000,PADAT
+408,Kabupaten Sidoarjo,Kabupaten Tuban,30,1355000,CAIR
+409,Kabupaten Sidoarjo,Kabupaten Lamongan,15,697500,GAS
+410,Kabupaten Sidoarjo,Kabupaten Lamongan,25,1047500,PADAT
+411,Kabupaten Sidoarjo,Kabupaten Lamongan,30,1222500,CAIR
+412,Kabupaten Sidoarjo,Kabupaten Gresik,15,630000,GAS
+413,Kabupaten Sidoarjo,Kabupaten Gresik,25,980000,PADAT
+414,Kabupaten Sidoarjo,Kabupaten Gresik,30,1155000,CAIR
+415,Kabupaten Sidoarjo,Kabupaten Bangkalan,15,662500,GAS
+416,Kabupaten Sidoarjo,Kabupaten Bangkalan,25,1012500,PADAT
+417,Kabupaten Sidoarjo,Kabupaten Bangkalan,30,1187500,CAIR
+418,Kabupaten Sidoarjo,Kabupaten Sampang,15,785000,GAS
+419,Kabupaten Sidoarjo,Kabupaten Sampang,25,1135000,PADAT
+420,Kabupaten Sidoarjo,Kabupaten Sampang,30,1310000,CAIR
+421,Kabupaten Sidoarjo,Kabupaten Pamekasan,15,862500,GAS
+422,Kabupaten Sidoarjo,Kabupaten Pamekasan,25,1212500,PADAT
+423,Kabupaten Sidoarjo,Kabupaten Pamekasan,30,1387500,CAIR
+424,Kabupaten Sidoarjo,Kabupaten Sumenep,15,995000,GAS
+425,Kabupaten Sidoarjo,Kabupaten Sumenep,25,1345000,PADAT
+426,Kabupaten Sidoarjo,Kabupaten Sumenep,30,1520000,CAIR
+427,Kabupaten Sidoarjo,Kota Surabaya,15,580000,GAS
+428,Kabupaten Sidoarjo,Kota Surabaya,25,930000,PADAT
+429,Kabupaten Sidoarjo,Kota Surabaya,30,1105000,CAIR
+430,Kabupaten Sidoarjo,Kota Blitar,15,932500,GAS
+431,Kabupaten Sidoarjo,Kota Blitar,25,1282500,PADAT
+432,Kabupaten Sidoarjo,Kota Blitar,30,1457500,CAIR
+433,Kabupaten Sidoarjo,Kota Malang,15,715000,GAS
+434,Kabupaten Sidoarjo,Kota Malang,25,1065000,PADAT
+435,Kabupaten Sidoarjo,Kota Malang,30,1240000,CAIR
+436,Kabupaten Kediri,Kabupaten Pacitan,30,1500000,GAS
+437,Kabupaten Kediri,Kabupaten Pacitan,16,1010000,PADAT
+438,Kabupaten Kediri,Kabupaten Pacitan,25,1325000,CAIR
+439,Kabupaten Kediri,Kabupaten Ponorogo,15,812500,GAS
+440,Kabupaten Kediri,Kabupaten Ponorogo,10,637500,PADAT
+441,Kabupaten Kediri,Kabupaten Ponorogo,30,1337500,CAIR
+442,Kabupaten Kediri,Kabupaten Trenggalek,16,717500,GAS
+443,Kabupaten Kediri,Kabupaten Trenggalek,25,1032500,PADAT
+444,Kabupaten Kediri,Kabupaten Trenggalek,15,682500,CAIR
+445,Kabupaten Kediri,Kabupaten Tulungagung,10,427500,GAS
+446,Kabupaten Kediri,Kabupaten Tulungagung,30,1127500,PADAT
+447,Kabupaten Kediri,Kabupaten Tulungagung,16,637500,CAIR
+448,Kabupaten Kediri,Kabupaten Lumajang,25,1417500,GAS
+449,Kabupaten Kediri,Kabupaten Lumajang,15,1067500,PADAT
+450,Kabupaten Kediri,Kabupaten Lumajang,10,892500,CAIR
+451,Kabupaten Kediri,Kabupaten Jember,30,1797500,GAS
+452,Kabupaten Kediri,Kabupaten Jember,16,1307500,PADAT
+453,Kabupaten Kediri,Kabupaten Jember,25,1622500,CAIR
+454,Kabupaten Kediri,Kabupaten Banyuwangi,15,1482500,GAS
+455,Kabupaten Kediri,Kabupaten Banyuwangi,10,1307500,PADAT
+456,Kabupaten Kediri,Kabupaten Banyuwangi,30,2007500,CAIR
+457,Kabupaten Kediri,Kabupaten Situbondo,16,1282500,GAS
+458,Kabupaten Kediri,Kabupaten Situbondo,25,1597500,PADAT
+459,Kabupaten Kediri,Kabupaten Situbondo,15,1247500,CAIR
+460,Kabupaten Kediri,Kota Probolinggo,10,835000,GAS
+461,Kabupaten Kediri,Kota Probolinggo,30,1535000,PADAT
+462,Kabupaten Kediri,Kota Probolinggo,16,1045000,CAIR
+463,Kabupaten Kediri,Kota Pasuruan,25,1265000,GAS
+464,Kabupaten Kediri,Kota Pasuruan,15,915000,PADAT
+465,Kabupaten Kediri,Kota Pasuruan,10,740000,CAIR
+466,Kabupaten Kediri,Kabupaten Sidoarjo,30,1415000,GAS
+467,Kabupaten Kediri,Kabupaten Sidoarjo,16,925000,PADAT
+468,Kabupaten Kediri,Kabupaten Sidoarjo,25,1240000,CAIR
+469,Kabupaten Kediri,Kota Mojokerto,15,642500,GAS
+470,Kabupaten Kediri,Kota Mojokerto,10,467500,PADAT
+471,Kabupaten Kediri,Kota Mojokerto,30,1167500,CAIR
+472,Kabupaten Kediri,Kabupaten Jombang,16,670000,GAS
+473,Kabupaten Kediri,Kabupaten Jombang,25,985000,PADAT
+474,Kabupaten Kediri,Kabupaten Jombang,15,635000,CAIR
+475,Kabupaten Kediri,Kabupaten Nganjuk,10,420000,GAS
+476,Kabupaten Kediri,Kabupaten Nganjuk,30,1120000,PADAT
+477,Kabupaten Kediri,Kabupaten Nganjuk,16,630000,CAIR
+478,Kabupaten Kediri,Kota Madiun,25,1070000,GAS
+479,Kabupaten Kediri,Kota Madiun,15,720000,PADAT
+480,Kabupaten Kediri,Kota Madiun,10,545000,CAIR
+481,Kabupaten Kediri,Kabupaten Magetan,30,1305000,GAS
+482,Kabupaten Kediri,Kabupaten Magetan,16,815000,PADAT
+483,Kabupaten Kediri,Kabupaten Magetan,25,1130000,CAIR
+484,Kabupaten Kediri,Kabupaten Ngawi,15,750000,GAS
+485,Kabupaten Kediri,Kabupaten Ngawi,10,575000,PADAT
+486,Kabupaten Kediri,Kabupaten Ngawi,30,1275000,CAIR
+487,Kabupaten Kediri,Kabupaten Bojonegoro,16,882500,GAS
+488,Kabupaten Kediri,Kabupaten Bojonegoro,25,1197500,PADAT
+489,Kabupaten Kediri,Kabupaten Bojonegoro,15,847500,CAIR
+490,Kabupaten Kediri,Kabupaten Tuban,10,665000,GAS
+491,Kabupaten Kediri,Kabupaten Tuban,30,1365000,PADAT
+492,Kabupaten Kediri,Kabupaten Tuban,16,875000,CAIR
+493,Kabupaten Kediri,Kabupaten Lamongan,25,1202500,GAS
+494,Kabupaten Kediri,Kabupaten Lamongan,15,852500,PADAT
+495,Kabupaten Kediri,Kabupaten Lamongan,10,677500,CAIR
+496,Kabupaten Kediri,Kabupaten Gresik,30,1402500,GAS
+497,Kabupaten Kediri,Kabupaten Gresik,16,912500,PADAT
+498,Kabupaten Kediri,Kabupaten Gresik,25,1227500,CAIR
+499,Kabupaten Kediri,Kabupaten Bangkalan,15,1482500,GAS
+500,Kabupaten Kediri,Kabupaten Bangkalan,10,1307500,PADAT
+501,Kabupaten Kediri,Kabupaten Bangkalan,30,2007500,CAIR
+502,Kabupaten Kediri,Kabupaten Sampang,16,1092500,GAS
+503,Kabupaten Kediri,Kabupaten Sampang,25,1407500,PADAT
+504,Kabupaten Kediri,Kabupaten Sampang,15,1057500,CAIR
+505,Kabupaten Kediri,Kabupaten Pamekasan,10,965000,GAS
+506,Kabupaten Kediri,Kabupaten Pamekasan,30,1665000,PADAT
+507,Kabupaten Kediri,Kabupaten Pamekasan,16,1175000,CAIR
+508,Kabupaten Kediri,Kabupaten Sumenep,25,1615000,GAS
+509,Kabupaten Kediri,Kabupaten Sumenep,15,1265000,PADAT
+510,Kabupaten Kediri,Kabupaten Sumenep,10,1090000,CAIR
+511,Kabupaten Kediri,Kota Surabaya,30,1357500,GAS
+512,Kabupaten Kediri,Kota Surabaya,16,867500,PADAT
+513,Kabupaten Kediri,Kota Surabaya,25,1182500,CAIR
+514,Kabupaten Kediri,Kota Blitar,15,635000,GAS
+515,Kabupaten Kediri,Kota Blitar,10,460000,PADAT
+516,Kabupaten Kediri,Kota Blitar,30,1160000,CAIR
+517,Kabupaten Kediri,Kota Malang,16,810000,GAS
+518,Kabupaten Kediri,Kota Malang,25,1125000,PADAT
+519,Kabupaten Kediri,Kota Malang,15,775000,CAIR
+520,Kabupaten Kediri,Kabupaten Bondowoso,10,1315000,GAS
+521,Kabupaten Kediri,Kabupaten Bondowoso,30,2015000,PADAT
+522,Kabupaten Kediri,Kabupaten Bondowoso,16,1525000,CAIR
+523,Kabupaten Lumajang,Kota Surabaya,30,1412500,GAS
+524,Kabupaten Lumajang,Kota Surabaya,16,922500,PADAT
+525,Kabupaten Lumajang,Kota Surabaya,25,1237500,CAIR
+526,Kabupaten Lumajang,Kabupaten Gresik,15,932500,GAS
+527,Kabupaten Lumajang,Kabupaten Gresik,10,757500,PADAT
+528,Kabupaten Lumajang,Kabupaten Gresik,30,1457500,CAIR
+529,Kabupaten Lumajang,Kabupaten Sidoarjo,16,865000,GAS
+530,Kabupaten Lumajang,Kabupaten Sidoarjo,25,1180000,PADAT
+531,Kabupaten Lumajang,Kabupaten Sidoarjo,15,830000,CAIR
+532,Kabupaten Lumajang,Kota Mojokerto,30,1422500,GAS
+533,Kabupaten Lumajang,Kota Mojokerto,16,932500,PADAT
+534,Kabupaten Lumajang,Kota Mojokerto,25,1247500,CAIR
+535,Kabupaten Lumajang,Kabupaten Jombang,15,965000,GAS
+536,Kabupaten Lumajang,Kabupaten Jombang,10,790000,PADAT
+537,Kabupaten Lumajang,Kabupaten Jombang,30,1490000,CAIR
+538,Kabupaten Lumajang,Kabupaten Bojonegoro,16,1192500,GAS
+539,Kabupaten Lumajang,Kabupaten Bojonegoro,25,1507500,PADAT
+540,Kabupaten Lumajang,Kabupaten Bojonegoro,15,1157500,CAIR
+541,Kabupaten Lumajang,Kabupaten Lamongan,30,1525000,GAS
+542,Kabupaten Lumajang,Kabupaten Lamongan,16,1035000,PADAT
+543,Kabupaten Lumajang,Kabupaten Lamongan,25,1350000,CAIR
+544,Kabupaten Lumajang,Kabupaten Tuban,15,1145000,GAS
+545,Kabupaten Lumajang,Kabupaten Tuban,10,970000,PADAT
+546,Kabupaten Lumajang,Kabupaten Tuban,30,1670000,CAIR
+547,Kabupaten Lumajang,Kota Madiun,16,1225000,GAS
+548,Kabupaten Lumajang,Kota Madiun,25,1540000,PADAT
+549,Kabupaten Lumajang,Kota Madiun,15,1190000,CAIR
+550,Kabupaten Lumajang,Kabupaten Ngawi,30,1740000,GAS
+551,Kabupaten Lumajang,Kabupaten Ngawi,16,1250000,PADAT
+552,Kabupaten Lumajang,Kabupaten Ngawi,25,1565000,CAIR
+553,Kabupaten Lumajang,Kabupaten Magetan,15,1250000,GAS
+554,Kabupaten Lumajang,Kabupaten Magetan,10,1075000,PADAT
+555,Kabupaten Lumajang,Kabupaten Magetan,30,1775000,CAIR
+556,Kabupaten Lumajang,Kabupaten Ponorogo,16,1112500,GAS
+557,Kabupaten Lumajang,Kabupaten Ponorogo,25,1427500,PADAT
+558,Kabupaten Lumajang,Kabupaten Ponorogo,15,1077500,CAIR
+559,Kabupaten Lumajang,Kabupaten Pacitan,30,1740000,GAS
+560,Kabupaten Lumajang,Kabupaten Pacitan,16,1250000,PADAT
+561,Kabupaten Lumajang,Kabupaten Pacitan,25,1565000,CAIR
+562,Kabupaten Lumajang,Kabupaten Kediri,15,1067500,GAS
+563,Kabupaten Lumajang,Kabupaten Kediri,10,892500,PADAT
+564,Kabupaten Lumajang,Kabupaten Kediri,30,1592500,CAIR
+565,Kabupaten Lumajang,Kabupaten Nganjuk,16,1100000,GAS
+566,Kabupaten Lumajang,Kabupaten Nganjuk,25,1415000,PADAT
+567,Kabupaten Lumajang,Kabupaten Nganjuk,15,1065000,CAIR
+568,Kabupaten Lumajang,Kabupaten Tulungagung,30,1562500,GAS
+569,Kabupaten Lumajang,Kabupaten Tulungagung,16,1072500,PADAT
+570,Kabupaten Lumajang,Kabupaten Tulungagung,25,1387500,CAIR
+571,Kabupaten Lumajang,Kota Blitar,15,955000,GAS
+572,Kabupaten Lumajang,Kota Blitar,10,780000,PADAT
+573,Kabupaten Lumajang,Kota Blitar,30,1480000,CAIR
+574,Kabupaten Lumajang,Kabupaten Trenggalek,16,1150000,GAS
+575,Kabupaten Lumajang,Kabupaten Trenggalek,25,1465000,PADAT
+576,Kabupaten Lumajang,Kabupaten Trenggalek,15,1115000,CAIR
+577,Kabupaten Lumajang,Kota Malang,30,1342500,GAS
+578,Kabupaten Lumajang,Kota Malang,16,852500,PADAT
+579,Kabupaten Lumajang,Kota Malang,25,1167500,CAIR
+580,Kabupaten Lumajang,Kota Pasuruan,15,737500,GAS
+581,Kabupaten Lumajang,Kota Pasuruan,10,562500,PADAT
+582,Kabupaten Lumajang,Kota Pasuruan,30,1262500,CAIR
+583,Kabupaten Lumajang,Kota Probolinggo,16,675000,GAS
+584,Kabupaten Lumajang,Kota Probolinggo,25,990000,PADAT
+585,Kabupaten Lumajang,Kota Probolinggo,15,640000,CAIR
+586,Kabupaten Lumajang,Kabupaten Bondowoso,30,1312500,GAS
+587,Kabupaten Lumajang,Kabupaten Bondowoso,16,822500,PADAT
+588,Kabupaten Lumajang,Kabupaten Bondowoso,25,1137500,CAIR
+589,Kabupaten Lumajang,Kabupaten Situbondo,15,875000,GAS
+590,Kabupaten Lumajang,Kabupaten Situbondo,10,700000,PADAT
+591,Kabupaten Lumajang,Kabupaten Situbondo,30,1400000,CAIR
+592,Kabupaten Lumajang,Kabupaten Jember,16,990000,GAS
+593,Kabupaten Lumajang,Kabupaten Jember,25,1305000,PADAT
+594,Kabupaten Lumajang,Kabupaten Jember,15,955000,CAIR
+595,Kabupaten Lumajang,Kabupaten Banyuwangi,30,1492500,GAS
+596,Kabupaten Lumajang,Kabupaten Banyuwangi,16,1002500,PADAT
+597,Kabupaten Lumajang,Kabupaten Banyuwangi,25,1317500,CAIR
+598,Kabupaten Lumajang,Kabupaten Bangkalan,15,957500,GAS
+599,Kabupaten Lumajang,Kabupaten Bangkalan,10,782500,PADAT
+600,Kabupaten Lumajang,Kabupaten Bangkalan,30,1482500,CAIR
+601,Kabupaten Lumajang,Kabupaten Sampang,16,1147500,GAS
+602,Kabupaten Lumajang,Kabupaten Sampang,25,1462500,PADAT
+603,Kabupaten Lumajang,Kabupaten Sampang,15,1112500,CAIR
+604,Kabupaten Lumajang,Kabupaten Pamekasan,30,1720000,GAS
+605,Kabupaten Lumajang,Kabupaten Pamekasan,16,1230000,PADAT
+606,Kabupaten Lumajang,Kabupaten Pamekasan,25,1545000,CAIR
+607,Kabupaten Lumajang,Kabupaten Sumenep,15,1280000,GAS
+608,Kabupaten Lumajang,Kabupaten Sumenep,10,1105000,PADAT
+609,Kabupaten Lumajang,Kabupaten Sumenep,30,1805000,CAIR
+610,Kabupaten Jember,Kota Surabaya,16,1052500,GAS
+611,Kabupaten Jember,Kota Surabaya,25,1367500,PADAT
+612,Kabupaten Jember,Kota Surabaya,15,1017500,CAIR
+613,Kabupaten Jember,Kabupaten Gresik,30,1587500,GAS
+614,Kabupaten Jember,Kabupaten Gresik,16,1097500,PADAT
+615,Kabupaten Jember,Kabupaten Gresik,25,1412500,CAIR
+616,Kabupaten Jember,Kabupaten Sidoarjo,15,960000,GAS
+617,Kabupaten Jember,Kabupaten Sidoarjo,10,785000,PADAT
+618,Kabupaten Jember,Kabupaten Sidoarjo,30,1485000,CAIR
+619,Kabupaten Jember,Kota Mojokerto,16,1050000,GAS
+620,Kabupaten Jember,Kota Mojokerto,25,1365000,PADAT
+621,Kabupaten Jember,Kota Mojokerto,15,1015000,CAIR
+622,Kabupaten Jember,Kabupaten Jombang,30,1620000,GAS
+623,Kabupaten Jember,Kabupaten Jombang,16,1130000,PADAT
+624,Kabupaten Jember,Kabupaten Jombang,25,1445000,CAIR
+625,Kabupaten Jember,Kabupaten Bojonegoro,15,1287500,GAS
+626,Kabupaten Jember,Kabupaten Bojonegoro,10,1112500,PADAT
+627,Kabupaten Jember,Kabupaten Bojonegoro,30,1812500,CAIR
+628,Kabupaten Jember,Kabupaten Lamongan,16,1165000,GAS
+629,Kabupaten Jember,Kabupaten Lamongan,25,1480000,PADAT
+630,Kabupaten Jember,Kabupaten Lamongan,15,1130000,CAIR
+631,Kabupaten Jember,Kabupaten Tuban,30,1800000,GAS
+632,Kabupaten Jember,Kabupaten Tuban,16,1310000,PADAT
+633,Kabupaten Jember,Kabupaten Tuban,25,1625000,CAIR
+634,Kabupaten Jember,Kota Madiun,15,1320000,GAS
+635,Kabupaten Jember,Kota Madiun,10,1145000,PADAT
+636,Kabupaten Jember,Kota Madiun,30,1845000,CAIR
+637,Kabupaten Jember,Kabupaten Ngawi,16,1385000,GAS
+638,Kabupaten Jember,Kabupaten Ngawi,25,1700000,PADAT
+639,Kabupaten Jember,Kabupaten Ngawi,15,1350000,CAIR
+640,Kabupaten Jember,Kabupaten Magetan,30,1905000,GAS
+641,Kabupaten Jember,Kabupaten Magetan,16,1415000,PADAT
+642,Kabupaten Jember,Kabupaten Magetan,25,1730000,CAIR
+643,Kabupaten Jember,Kabupaten Ponorogo,15,1392500,GAS
+644,Kabupaten Jember,Kabupaten Ponorogo,10,1217500,PADAT
+645,Kabupaten Jember,Kabupaten Ponorogo,30,1917500,CAIR
+646,Kabupaten Jember,Kabupaten Pacitan,16,1455000,GAS
+647,Kabupaten Jember,Kabupaten Pacitan,25,1770000,PADAT
+648,Kabupaten Jember,Kabupaten Pacitan,15,1420000,CAIR
+649,Kabupaten Jember,Kabupaten Kediri,30,1780000,GAS
+650,Kabupaten Jember,Kabupaten Kediri,16,1290000,PADAT
+651,Kabupaten Jember,Kabupaten Kediri,25,1605000,CAIR
+652,Kabupaten Jember,Kabupaten Nganjuk,15,1195000,GAS
+653,Kabupaten Jember,Kabupaten Nganjuk,10,1020000,PADAT
+654,Kabupaten Jember,Kabupaten Nganjuk,30,1720000,CAIR
+655,Kabupaten Jember,Kabupaten Tulungagung,16,1317500,GAS
+656,Kabupaten Jember,Kabupaten Tulungagung,25,1632500,PADAT
+657,Kabupaten Jember,Kabupaten Tulungagung,15,1282500,CAIR
+658,Kabupaten Jember,Kota Blitar,30,1725000,GAS
+659,Kabupaten Jember,Kota Blitar,16,1235000,PADAT
+660,Kabupaten Jember,Kota Blitar,25,1550000,CAIR
+661,Kabupaten Jember,Kabupaten Trenggalek,15,1360000,GAS
+662,Kabupaten Jember,Kabupaten Trenggalek,10,1185000,PADAT
+663,Kabupaten Jember,Kabupaten Trenggalek,30,1885000,CAIR
+664,Kabupaten Jember,Kota Malang,16,1040000,GAS
+665,Kabupaten Jember,Kota Malang,25,1355000,PADAT
+666,Kabupaten Jember,Kota Malang,15,1005000,CAIR
+667,Kabupaten Jember,Kota Pasuruan,30,1392500,GAS
+668,Kabupaten Jember,Kota Pasuruan,16,902500,PADAT
+669,Kabupaten Jember,Kota Pasuruan,25,1217500,CAIR
+670,Kabupaten Jember,Kota Probolinggo,15,765000,GAS
+671,Kabupaten Jember,Kota Probolinggo,10,590000,PADAT
+672,Kabupaten Jember,Kota Probolinggo,30,1290000,CAIR
+673,Kabupaten Jember,Kabupaten Lumajang,16,740000,GAS
+674,Kabupaten Jember,Kabupaten Lumajang,25,1055000,PADAT
+675,Kabupaten Jember,Kabupaten Lumajang,15,705000,CAIR
+676,Kabupaten Jember,Kabupaten Bondowoso,30,1130000,GAS
+677,Kabupaten Jember,Kabupaten Bondowoso,16,640000,PADAT
+678,Kabupaten Jember,Kabupaten Bondowoso,25,955000,CAIR
+679,Kabupaten Jember,Kabupaten Situbondo,15,767500,GAS
+680,Kabupaten Jember,Kabupaten Situbondo,10,592500,PADAT
+681,Kabupaten Jember,Kabupaten Situbondo,30,1292500,CAIR
+682,Kabupaten Jember,Kabupaten Banyuwangi,16,822500,GAS
+683,Kabupaten Jember,Kabupaten Banyuwangi,25,1137500,PADAT
+684,Kabupaten Jember,Kabupaten Banyuwangi,15,787500,CAIR
+685,Kabupaten Jember,Kabupaten Bangkalan,30,1612500,GAS
+686,Kabupaten Jember,Kabupaten Bangkalan,16,1122500,PADAT
+687,Kabupaten Jember,Kabupaten Bangkalan,25,1437500,CAIR
+688,Kabupaten Jember,Kabupaten Sampang,15,1242500,GAS
+689,Kabupaten Jember,Kabupaten Sampang,10,1067500,PADAT
+690,Kabupaten Jember,Kabupaten Sampang,30,1767500,CAIR
+691,Kabupaten Jember,Kabupaten Pamekasan,16,1360000,GAS
+692,Kabupaten Jember,Kabupaten Pamekasan,25,1675000,PADAT
+693,Kabupaten Jember,Kabupaten Pamekasan,15,1325000,CAIR
+694,Kabupaten Jember,Kabupaten Sumenep,30,1980000,GAS
+695,Kabupaten Jember,Kabupaten Sumenep,16,1490000,PADAT
+696,Kabupaten Jember,Kabupaten Sumenep,25,1805000,CAIR
+697,Kabupaten Banyuwangi,Kota Surabaya,30,1770000,GAS
+698,Kabupaten Banyuwangi,Kota Surabaya,20,1420000,PADAT
+699,Kabupaten Banyuwangi,Kota Surabaya,22,1490000,CAIR
+700,Kabupaten Banyuwangi,Kabupaten Gresik,25,1640000,GAS
+701,Kabupaten Banyuwangi,Kabupaten Gresik,26,1675000,PADAT
+702,Kabupaten Banyuwangi,Kabupaten Gresik,35,1990000,CAIR
+703,Kabupaten Banyuwangi,Kabupaten Sidoarjo,15,1187500,GAS
+704,Kabupaten Banyuwangi,Kabupaten Sidoarjo,10,1012500,PADAT
+705,Kabupaten Banyuwangi,Kabupaten Sidoarjo,30,1712500,CAIR
+706,Kabupaten Banyuwangi,Kota Mojokerto,16,1282500,GAS
+707,Kabupaten Banyuwangi,Kota Mojokerto,25,1597500,PADAT
+708,Kabupaten Banyuwangi,Kota Mojokerto,15,1247500,CAIR
+709,Kabupaten Banyuwangi,Kabupaten Jombang,30,1847500,GAS
+710,Kabupaten Banyuwangi,Kabupaten Jombang,16,1357500,PADAT
+711,Kabupaten Banyuwangi,Kabupaten Jombang,25,1672500,CAIR
+712,Kabupaten Banyuwangi,Kabupaten Bojonegoro,30,2040000,GAS
+713,Kabupaten Banyuwangi,Kabupaten Bojonegoro,20,1690000,PADAT
+714,Kabupaten Banyuwangi,Kabupaten Bojonegoro,22,1760000,CAIR
+715,Kabupaten Banyuwangi,Kabupaten Lamongan,25,1707500,GAS
+716,Kabupaten Banyuwangi,Kabupaten Lamongan,26,1742500,PADAT
+717,Kabupaten Banyuwangi,Kabupaten Lamongan,35,2057500,CAIR
+718,Kabupaten Banyuwangi,Kabupaten Tuban,15,1502500,GAS
+719,Kabupaten Banyuwangi,Kabupaten Tuban,10,1327500,PADAT
+720,Kabupaten Banyuwangi,Kabupaten Tuban,30,2027500,CAIR
+721,Kabupaten Banyuwangi,Kota Madiun,16,1577500,GAS
+722,Kabupaten Banyuwangi,Kota Madiun,25,1892500,PADAT
+723,Kabupaten Banyuwangi,Kota Madiun,15,1542500,CAIR
+724,Kabupaten Banyuwangi,Kabupaten Ngawi,30,2102500,GAS
+725,Kabupaten Banyuwangi,Kabupaten Ngawi,16,1612500,PADAT
+726,Kabupaten Banyuwangi,Kabupaten Ngawi,25,1927500,CAIR
+727,Kabupaten Banyuwangi,Kabupaten Magetan,30,2132500,GAS
+728,Kabupaten Banyuwangi,Kabupaten Magetan,20,1782500,PADAT
+729,Kabupaten Banyuwangi,Kabupaten Magetan,22,1852500,CAIR
+730,Kabupaten Banyuwangi,Kabupaten Ponorogo,25,1965000,GAS
+731,Kabupaten Banyuwangi,Kabupaten Ponorogo,26,2000000,PADAT
+732,Kabupaten Banyuwangi,Kabupaten Ponorogo,35,2315000,CAIR
+733,Kabupaten Banyuwangi,Kabupaten Pacitan,15,1680000,GAS
+734,Kabupaten Banyuwangi,Kabupaten Pacitan,10,1505000,PADAT
+735,Kabupaten Banyuwangi,Kabupaten Pacitan,30,2205000,CAIR
+736,Kabupaten Banyuwangi,Kabupaten Kediri,16,1517500,GAS
+737,Kabupaten Banyuwangi,Kabupaten Kediri,25,1832500,PADAT
+738,Kabupaten Banyuwangi,Kabupaten Kediri,15,1482500,CAIR
+739,Kabupaten Banyuwangi,Kabupaten Nganjuk,30,2022500,GAS
+740,Kabupaten Banyuwangi,Kabupaten Nganjuk,16,1532500,PADAT
+741,Kabupaten Banyuwangi,Kabupaten Nganjuk,25,1847500,CAIR
+742,Kabupaten Banyuwangi,Kabupaten Tulungagung,30,2035000,GAS
+743,Kabupaten Banyuwangi,Kabupaten Tulungagung,20,1685000,PADAT
+744,Kabupaten Banyuwangi,Kabupaten Tulungagung,22,1755000,CAIR
+745,Kabupaten Banyuwangi,Kota Blitar,25,1777500,GAS
+746,Kabupaten Banyuwangi,Kota Blitar,26,1812500,PADAT
+747,Kabupaten Banyuwangi,Kota Blitar,35,2127500,CAIR
+748,Kabupaten Banyuwangi,Kabupaten Trenggalek,15,1587500,GAS
+749,Kabupaten Banyuwangi,Kabupaten Trenggalek,10,1412500,PADAT
+750,Kabupaten Banyuwangi,Kabupaten Trenggalek,30,2112500,CAIR
+751,Kabupaten Banyuwangi,Kota Malang,16,1157500,GAS
+752,Kabupaten Banyuwangi,Kota Malang,25,1472500,PADAT
+753,Kabupaten Banyuwangi,Kota Malang,15,1122500,CAIR
+754,Kabupaten Banyuwangi,Kota Pasuruan,30,1620000,GAS
+755,Kabupaten Banyuwangi,Kota Pasuruan,16,1130000,PADAT
+756,Kabupaten Banyuwangi,Kota Pasuruan,25,1445000,CAIR
+757,Kabupaten Banyuwangi,Kota Probolinggo,30,1522500,GAS
+758,Kabupaten Banyuwangi,Kota Probolinggo,20,1172500,PADAT
+759,Kabupaten Banyuwangi,Kota Probolinggo,22,1242500,CAIR
+760,Kabupaten Banyuwangi,Kabupaten Lumajang,25,1317500,GAS
+761,Kabupaten Banyuwangi,Kabupaten Lumajang,26,1352500,PADAT
+762,Kabupaten Banyuwangi,Kabupaten Lumajang,35,1667500,CAIR
+763,Kabupaten Banyuwangi,Kabupaten Bondowoso,15,865000,GAS
+764,Kabupaten Banyuwangi,Kabupaten Bondowoso,10,690000,PADAT
+765,Kabupaten Banyuwangi,Kabupaten Bondowoso,30,1390000,CAIR
+766,Kabupaten Banyuwangi,Kabupaten Situbondo,16,795000,GAS
+767,Kabupaten Banyuwangi,Kabupaten Situbondo,25,1110000,PADAT
+768,Kabupaten Banyuwangi,Kabupaten Situbondo,15,760000,CAIR
+769,Kabupaten Banyuwangi,Kabupaten Jember,30,1312500,GAS
+770,Kabupaten Banyuwangi,Kabupaten Jember,16,822500,PADAT
+771,Kabupaten Banyuwangi,Kabupaten Jember,25,1137500,CAIR
+772,Kabupaten Banyuwangi,Kabupaten Bangkalan,30,1840000,GAS
+773,Kabupaten Banyuwangi,Kabupaten Bangkalan,20,1490000,PADAT
+774,Kabupaten Banyuwangi,Kabupaten Bangkalan,22,1560000,CAIR
+775,Kabupaten Banyuwangi,Kabupaten Sampang,25,1820000,GAS
+776,Kabupaten Banyuwangi,Kabupaten Sampang,26,1855000,PADAT
+777,Kabupaten Banyuwangi,Kabupaten Sampang,35,2170000,CAIR
+778,Kabupaten Banyuwangi,Kabupaten Pamekasan,15,1552500,GAS
+779,Kabupaten Banyuwangi,Kabupaten Pamekasan,10,1377500,PADAT
+780,Kabupaten Banyuwangi,Kabupaten Pamekasan,30,2077500,CAIR
+781,Kabupaten Banyuwangi,Kabupaten Sumenep,16,1717500,GAS
+782,Kabupaten Banyuwangi,Kabupaten Sumenep,25,2032500,PADAT
+783,Kabupaten Banyuwangi,Kabupaten Sumenep,15,1682500,CAIR
+784,Kota Mojokerto,Kabupaten Pacitan,25,1467500,GAS
+785,Kota Mojokerto,Kabupaten Pacitan,30,1642500,PADAT
+786,Kota Mojokerto,Kabupaten Pacitan,15,1117500,CAIR
+787,Kota Mojokerto,Kabupaten Ponorogo,25,1260000,GAS
+788,Kota Mojokerto,Kabupaten Ponorogo,30,1435000,PADAT
+789,Kota Mojokerto,Kabupaten Ponorogo,15,910000,CAIR
+790,Kota Mojokerto,Kabupaten Trenggalek,25,1220000,GAS
+791,Kota Mojokerto,Kabupaten Trenggalek,15,870000,PADAT
+792,Kota Mojokerto,Kabupaten Trenggalek,25,1220000,CAIR
+793,Kota Mojokerto,Kabupaten Tulungagung,30,1372500,GAS
+794,Kota Mojokerto,Kabupaten Tulungagung,15,847500,PADAT
+795,Kota Mojokerto,Kabupaten Tulungagung,25,1197500,CAIR
+796,Kota Mojokerto,Kabupaten Kediri,30,1295000,GAS
+797,Kota Mojokerto,Kabupaten Kediri,15,770000,PADAT
+798,Kota Mojokerto,Kabupaten Kediri,25,1120000,CAIR
+799,Kota Mojokerto,Kabupaten Lumajang,30,1400000,GAS
+800,Kota Mojokerto,Kabupaten Lumajang,15,875000,PADAT
+801,Kota Mojokerto,Kabupaten Lumajang,25,1225000,CAIR
+802,Kota Mojokerto,Kabupaten Jember,15,1000000,GAS
+803,Kota Mojokerto,Kabupaten Jember,25,1350000,PADAT
+804,Kota Mojokerto,Kabupaten Jember,30,1525000,CAIR
+805,Kota Mojokerto,Kabupaten Banyuwangi,15,1242500,GAS
+806,Kota Mojokerto,Kabupaten Banyuwangi,25,1592500,PADAT
+807,Kota Mojokerto,Kabupaten Banyuwangi,30,1767500,CAIR
+808,Kota Mojokerto,Kabupaten Situbondo,15,1002500,GAS
+809,Kota Mojokerto,Kabupaten Situbondo,25,1352500,PADAT
+810,Kota Mojokerto,Kabupaten Situbondo,15,1002500,CAIR
+811,Kota Mojokerto,Kabupaten Bondowoso,25,1345000,GAS
+812,Kota Mojokerto,Kabupaten Bondowoso,30,1520000,PADAT
+813,Kota Mojokerto,Kabupaten Bondowoso,15,995000,CAIR
+814,Kota Mojokerto,Kota Probolinggo,25,1120000,GAS
+815,Kota Mojokerto,Kota Probolinggo,30,1295000,PADAT
+816,Kota Mojokerto,Kota Probolinggo,25,1120000,CAIR
+817,Kota Mojokerto,Kota Pasuruan,30,1205000,GAS
+818,Kota Mojokerto,Kota Pasuruan,15,680000,PADAT
+819,Kota Mojokerto,Kota Pasuruan,25,1030000,CAIR
+820,Kota Mojokerto,Kabupaten Sidoarjo,30,1142500,GAS
+821,Kota Mojokerto,Kabupaten Sidoarjo,15,617500,PADAT
+822,Kota Mojokerto,Kabupaten Sidoarjo,25,967500,CAIR
+823,Kota Mojokerto,Kabupaten Jombang,30,1132500,GAS
+824,Kota Mojokerto,Kabupaten Jombang,25,957500,PADAT
+825,Kota Mojokerto,Kabupaten Jombang,30,1132500,CAIR
+826,Kota Mojokerto,Kabupaten Nganjuk,15,715000,GAS
+827,Kota Mojokerto,Kabupaten Nganjuk,15,715000,PADAT
+828,Kota Mojokerto,Kabupaten Nganjuk,25,1065000,CAIR
+829,Kota Mojokerto,Kota Madiun,30,1362500,GAS
+830,Kota Mojokerto,Kota Madiun,15,837500,PADAT
+831,Kota Mojokerto,Kota Madiun,25,1187500,CAIR
+832,Kota Mojokerto,Kabupaten Magetan,30,1415000,GAS
+833,Kota Mojokerto,Kabupaten Magetan,15,890000,PADAT
+834,Kota Mojokerto,Kabupaten Magetan,25,1240000,CAIR
+835,Kota Mojokerto,Kabupaten Ngawi,30,1440000,GAS
+836,Kota Mojokerto,Kabupaten Ngawi,25,1265000,PADAT
+837,Kota Mojokerto,Kabupaten Ngawi,30,1440000,CAIR
+838,Kota Mojokerto,Kabupaten Bojonegoro,15,895000,GAS
+839,Kota Mojokerto,Kabupaten Bojonegoro,25,1245000,PADAT
+840,Kota Mojokerto,Kabupaten Bojonegoro,30,1420000,CAIR
+841,Kota Mojokerto,Kabupaten Tuban,15,842500,GAS
+842,Kota Mojokerto,Kabupaten Tuban,15,842500,PADAT
+843,Kota Mojokerto,Kabupaten Tuban,25,1192500,CAIR
+844,Kota Mojokerto,Kabupaten Lamongan,30,1250000,GAS
+845,Kota Mojokerto,Kabupaten Lamongan,30,1250000,PADAT
+846,Kota Mojokerto,Kabupaten Lamongan,15,725000,CAIR
+847,Kota Mojokerto,Kabupaten Gresik,25,1040000,GAS
+848,Kota Mojokerto,Kabupaten Gresik,30,1215000,PADAT
+849,Kota Mojokerto,Kabupaten Gresik,15,690000,CAIR
+850,Kota Mojokerto,Kabupaten Bangkalan,25,1112500,GAS
+851,Kota Mojokerto,Kabupaten Bangkalan,30,1287500,PADAT
+852,Kota Mojokerto,Kabupaten Bangkalan,30,1287500,CAIR
+853,Kota Mojokerto,Kabupaten Sampang,15,887500,GAS
+854,Kota Mojokerto,Kabupaten Sampang,25,1237500,PADAT
+855,Kota Mojokerto,Kabupaten Sampang,42,1832500,CAIR
+856,Kota Mojokerto,Kabupaten Pamekasan,32,1557500,GAS
+857,Kota Mojokerto,Kabupaten Pamekasan,25,1312500,PADAT
+858,Kota Mojokerto,Kabupaten Pamekasan,33,1592500,CAIR
+859,Kota Mojokerto,Kabupaten Sumenep,21,1307500,GAS
+860,Kota Mojokerto,Kabupaten Sumenep,25,1447500,PADAT
+861,Kota Mojokerto,Kabupaten Sumenep,30,1622500,CAIR
+862,Kota Mojokerto,Kota Surabaya,15,685000,GAS
+863,Kota Mojokerto,Kota Surabaya,24,1000000,PADAT
+864,Kota Mojokerto,Kota Surabaya,30,1210000,CAIR
+865,Kota Mojokerto,Kota Blitar,26,1255000,GAS
+866,Kota Mojokerto,Kota Blitar,45,1920000,PADAT
+867,Kota Mojokerto,Kota Blitar,30,1395000,CAIR
+868,Kota Mojokerto,Kota Malang,27,1160000,GAS
+869,Kota Mojokerto,Kota Malang,25,1090000,PADAT
+870,Kota Mojokerto,Kota Malang,28,1195000,CAIR
+871,Kabupaten Jombang,Kabupaten Pacitan,15,1007500,GAS
+872,Kabupaten Jombang,Kabupaten Pacitan,25,1357500,PADAT
+873,Kabupaten Jombang,Kabupaten Pacitan,26,1392500,CAIR
+874,Kabupaten Jombang,Kabupaten Ponorogo,45,1880000,GAS
+875,Kabupaten Jombang,Kabupaten Ponorogo,25,1180000,PADAT
+876,Kabupaten Jombang,Kabupaten Ponorogo,25,1180000,CAIR
+877,Kabupaten Jombang,Kabupaten Trenggalek,30,1302500,GAS
+878,Kabupaten Jombang,Kabupaten Trenggalek,15,777500,PADAT
+879,Kabupaten Jombang,Kabupaten Trenggalek,25,1127500,CAIR
+880,Kabupaten Jombang,Kabupaten Tulungagung,15,725000,GAS
+881,Kabupaten Jombang,Kabupaten Tulungagung,15,725000,PADAT
+882,Kabupaten Jombang,Kabupaten Tulungagung,25,1075000,CAIR
+883,Kabupaten Jombang,Kabupaten Kediri,30,1172500,GAS
+884,Kabupaten Jombang,Kabupaten Kediri,15,647500,PADAT
+885,Kabupaten Jombang,Kabupaten Kediri,25,997500,CAIR
+886,Kabupaten Jombang,Kabupaten Lumajang,30,1552500,GAS
+887,Kabupaten Jombang,Kabupaten Lumajang,15,1027500,PADAT
+888,Kabupaten Jombang,Kabupaten Lumajang,25,1377500,CAIR
+889,Kabupaten Jombang,Kabupaten Jember,15,1155000,GAS
+890,Kabupaten Jombang,Kabupaten Jember,25,1505000,PADAT
+891,Kabupaten Jombang,Kabupaten Jember,20,1330000,CAIR
+892,Kabupaten Jombang,Kabupaten Banyuwangi,15,1425000,GAS
+893,Kabupaten Jombang,Kabupaten Banyuwangi,21,1635000,PADAT
+894,Kabupaten Jombang,Kabupaten Banyuwangi,30,1950000,CAIR
+895,Kabupaten Jombang,Kabupaten Situbondo,24,1502500,GAS
+896,Kabupaten Jombang,Kabupaten Situbondo,25,1537500,PADAT
+897,Kabupaten Jombang,Kabupaten Situbondo,15,1187500,CAIR
+898,Kabupaten Jombang,Kabupaten Bondowoso,23,1460000,GAS
+899,Kabupaten Jombang,Kabupaten Bondowoso,30,1705000,PADAT
+900,Kabupaten Jombang,Kabupaten Bondowoso,15,1180000,CAIR
+901,Kabupaten Jombang,Kota Probolinggo,25,1275000,GAS
+902,Kabupaten Jombang,Kota Probolinggo,14,890000,PADAT
+903,Kabupaten Jombang,Kota Probolinggo,25,1275000,CAIR
+904,Kabupaten Jombang,Kota Pasuruan,30,1357500,GAS
+905,Kabupaten Jombang,Kota Pasuruan,15,832500,PADAT
+906,Kabupaten Jombang,Kota Pasuruan,25,1182500,CAIR
+907,Kabupaten Jombang,Kabupaten Sidoarjo,30,1247500,GAS
+908,Kabupaten Jombang,Kabupaten Sidoarjo,30,1247500,PADAT
+909,Kabupaten Jombang,Kabupaten Sidoarjo,15,722500,CAIR
+910,Kabupaten Jombang,Kota Mojokerto,24,930000,GAS
+911,Kabupaten Jombang,Kota Mojokerto,30,1140000,PADAT
+912,Kabupaten Jombang,Kota Mojokerto,15,615000,CAIR
+913,Kabupaten Jombang,Kabupaten Nganjuk,24,947500,GAS
+914,Kabupaten Jombang,Kabupaten Nganjuk,25,982500,PADAT
+915,Kabupaten Jombang,Kabupaten Nganjuk,30,1157500,CAIR
+916,Kabupaten Jombang,Kota Madiun,25,1110000,GAS
+917,Kabupaten Jombang,Kota Madiun,15,760000,PADAT
+918,Kabupaten Jombang,Kota Madiun,46,1845000,CAIR
+919,Kabupaten Jombang,Kabupaten Magetan,30,1345000,GAS
+920,Kabupaten Jombang,Kabupaten Magetan,15,820000,PADAT
+921,Kabupaten Jombang,Kabupaten Magetan,30,1345000,CAIR
+922,Kabupaten Jombang,Kabupaten Ngawi,15,802500,GAS
+923,Kabupaten Jombang,Kabupaten Ngawi,25,1152500,PADAT
+924,Kabupaten Jombang,Kabupaten Ngawi,30,1327500,CAIR
+925,Kabupaten Jombang,Kabupaten Bojonegoro,25,1132500,GAS
+926,Kabupaten Jombang,Kabupaten Bojonegoro,25,1132500,PADAT
+927,Kabupaten Jombang,Kabupaten Bojonegoro,32,1377500,CAIR
+928,Kabupaten Jombang,Kabupaten Tuban,19,880000,GAS
+929,Kabupaten Jombang,Kabupaten Tuban,24,1055000,PADAT
+930,Kabupaten Jombang,Kabupaten Tuban,30,1265000,CAIR
+931,Kabupaten Jombang,Kabupaten Lamongan,26,1097500,GAS
+932,Kabupaten Jombang,Kabupaten Lamongan,45,1762500,PADAT
+933,Kabupaten Jombang,Kabupaten Lamongan,30,1237500,CAIR
+934,Kabupaten Jombang,Kabupaten Gresik,25,1107500,GAS
+935,Kabupaten Jombang,Kabupaten Gresik,26,1142500,PADAT
+936,Kabupaten Jombang,Kabupaten Gresik,45,1807500,CAIR
+937,Kabupaten Jombang,Kabupaten Bangkalan,18,907500,GAS
+938,Kabupaten Jombang,Kabupaten Bangkalan,26,1187500,PADAT
+939,Kabupaten Jombang,Kabupaten Bangkalan,20,977500,CAIR
+940,Kabupaten Jombang,Kabupaten Sampang,30,1447500,GAS
+941,Kabupaten Jombang,Kabupaten Sampang,45,1972500,PADAT
+942,Kabupaten Jombang,Kabupaten Sampang,30,1447500,CAIR
+943,Kabupaten Jombang,Kabupaten Pamekasan,27,1422500,GAS
+944,Kabupaten Jombang,Kabupaten Pamekasan,25,1352500,PADAT
+945,Kabupaten Jombang,Kabupaten Pamekasan,25,1352500,CAIR
+946,Kabupaten Jombang,Kabupaten Sumenep,30,1662500,GAS
+947,Kabupaten Jombang,Kabupaten Sumenep,15,1137500,PADAT
+948,Kabupaten Jombang,Kabupaten Sumenep,24,1452500,CAIR
+949,Kabupaten Jombang,Kota Surabaya,30,1247500,GAS
+950,Kabupaten Jombang,Kota Surabaya,26,1107500,PADAT
+951,Kabupaten Jombang,Kota Surabaya,45,1772500,CAIR
+952,Kabupaten Jombang,Kota Blitar,30,1242500,GAS
+953,Kabupaten Jombang,Kota Blitar,45,1767500,PADAT
+954,Kabupaten Jombang,Kota Blitar,30,1242500,CAIR
+955,Kabupaten Jombang,Kota Malang,27,1260000,GAS
+956,Kabupaten Jombang,Kota Malang,25,1190000,PADAT
+957,Kabupaten Jombang,Kota Malang,28,1295000,CAIR
+958,Kabupaten Nganjuk,Kabupaten Pacitan,25,1292500,GAS
+959,Kabupaten Nganjuk,Kabupaten Pacitan,30,1467500,PADAT
+960,Kabupaten Nganjuk,Kabupaten Pacitan,25,1292500,CAIR
+961,Kabupaten Nganjuk,Kabupaten Ponorogo,27,1165000,GAS
+962,Kabupaten Nganjuk,Kabupaten Ponorogo,25,1095000,PADAT
+963,Kabupaten Nganjuk,Kabupaten Ponorogo,25,1095000,CAIR
+964,Kabupaten Nganjuk,Kabupaten Trenggalek,30,1267500,GAS
+965,Kabupaten Nganjuk,Kabupaten Trenggalek,15,742500,PADAT
+966,Kabupaten Nganjuk,Kabupaten Trenggalek,24,1057500,CAIR
+967,Kabupaten Nganjuk,Kabupaten Tulungagung,30,1217500,GAS
+968,Kabupaten Nganjuk,Kabupaten Tulungagung,26,1077500,PADAT
+969,Kabupaten Nganjuk,Kabupaten Tulungagung,25,1042500,CAIR
+970,Kabupaten Nganjuk,Kabupaten Kediri,30,1140000,GAS
+971,Kabupaten Nganjuk,Kabupaten Kediri,15,615000,PADAT
+972,Kabupaten Nganjuk,Kabupaten Kediri,25,965000,CAIR
+973,Kabupaten Nganjuk,Kabupaten Lumajang,30,1645000,GAS
+974,Kabupaten Nganjuk,Kabupaten Lumajang,26,1505000,PADAT
+975,Kabupaten Nganjuk,Kabupaten Lumajang,25,1470000,CAIR
+976,Kabupaten Nganjuk,Kabupaten Jember,30,1772500,GAS
+977,Kabupaten Nganjuk,Kabupaten Jember,15,1247500,PADAT
+978,Kabupaten Nganjuk,Kabupaten Jember,25,1597500,CAIR
+979,Kabupaten Nganjuk,Kabupaten Banyuwangi,30,2042500,GAS
+980,Kabupaten Nganjuk,Kabupaten Banyuwangi,30,2042500,PADAT
+981,Kabupaten Nganjuk,Kabupaten Banyuwangi,30,2042500,CAIR
+982,Kabupaten Nganjuk,Kabupaten Situbondo,15,1280000,GAS
+983,Kabupaten Nganjuk,Kabupaten Situbondo,25,1630000,PADAT
+984,Kabupaten Nganjuk,Kabupaten Situbondo,30,1805000,CAIR
+985,Kabupaten Nganjuk,Kabupaten Bondowoso,15,1272500,GAS
+986,Kabupaten Nganjuk,Kabupaten Bondowoso,25,1622500,PADAT
+987,Kabupaten Nganjuk,Kabupaten Bondowoso,42,2217500,CAIR
+988,Kabupaten Nganjuk,Kota Probolinggo,32,1612500,GAS
+989,Kabupaten Nganjuk,Kota Probolinggo,25,1367500,PADAT
+990,Kabupaten Nganjuk,Kota Probolinggo,33,1647500,CAIR
+991,Kabupaten Nganjuk,Kota Pasuruan,21,1135000,GAS
+992,Kabupaten Nganjuk,Kota Pasuruan,25,1275000,PADAT
+993,Kabupaten Nganjuk,Kota Pasuruan,25,1275000,CAIR
+994,Kabupaten Nganjuk,Kabupaten Sidoarjo,15,815000,GAS
+995,Kabupaten Nganjuk,Kabupaten Sidoarjo,25,1165000,PADAT
+996,Kabupaten Nganjuk,Kabupaten Sidoarjo,30,1340000,CAIR
+997,Kabupaten Nganjuk,Kabupaten Jombang,15,640000,GAS
+998,Kabupaten Nganjuk,Kabupaten Jombang,25,990000,PADAT
+999,Kabupaten Nganjuk,Kabupaten Jombang,30,1165000,CAIR
+1000,Kabupaten Nganjuk,Kota Mojokerto,15,707500,GAS
+1001,Kabupaten Nganjuk,Kota Mojokerto,15,707500,PADAT
+1002,Kabupaten Nganjuk,Kota Mojokerto,25,1057500,CAIR
+1003,Kabupaten Nganjuk,Kota Madiun,30,1197500,GAS
+1004,Kabupaten Nganjuk,Kota Madiun,15,672500,PADAT
+1005,Kabupaten Nganjuk,Kota Madiun,25,1022500,CAIR
+1006,Kabupaten Nganjuk,Kabupaten Magetan,15,735000,GAS
+1007,Kabupaten Nganjuk,Kabupaten Magetan,25,1085000,PADAT
+1008,Kabupaten Nganjuk,Kabupaten Magetan,30,1260000,CAIR
+1009,Kabupaten Nganjuk,Kabupaten Ngawi,15,717500,GAS
+1010,Kabupaten Nganjuk,Kabupaten Ngawi,25,1067500,PADAT
+1011,Kabupaten Nganjuk,Kabupaten Ngawi,30,1242500,CAIR
+1012,Kabupaten Nganjuk,Kabupaten Bojonegoro,30,1215000,GAS
+1013,Kabupaten Nganjuk,Kabupaten Bojonegoro,15,690000,PADAT
+1014,Kabupaten Nganjuk,Kabupaten Bojonegoro,30,1215000,CAIR
+1015,Kabupaten Nganjuk,Kabupaten Tuban,15,840000,GAS
+1016,Kabupaten Nganjuk,Kabupaten Tuban,15,840000,PADAT
+1017,Kabupaten Nganjuk,Kabupaten Tuban,25,1190000,CAIR
+1018,Kabupaten Nganjuk,Kabupaten Lamongan,30,1330000,GAS
+1019,Kabupaten Nganjuk,Kabupaten Lamongan,30,1330000,PADAT
+1020,Kabupaten Nganjuk,Kabupaten Lamongan,15,805000,CAIR
+1021,Kabupaten Nganjuk,Kabupaten Gresik,25,1200000,GAS
+1022,Kabupaten Nganjuk,Kabupaten Gresik,30,1375000,PADAT
+1023,Kabupaten Nganjuk,Kabupaten Gresik,15,850000,CAIR
+1024,Kabupaten Nganjuk,Kabupaten Bangkalan,25,1245000,GAS
+1025,Kabupaten Nganjuk,Kabupaten Bangkalan,30,1420000,PADAT
+1026,Kabupaten Nganjuk,Kabupaten Bangkalan,30,1420000,CAIR
+1027,Kabupaten Nganjuk,Kabupaten Sampang,15,1015000,GAS
+1028,Kabupaten Nganjuk,Kabupaten Sampang,25,1365000,PADAT
+1029,Kabupaten Nganjuk,Kabupaten Sampang,42,1960000,CAIR
+1030,Kabupaten Nganjuk,Kabupaten Pamekasan,32,1690000,GAS
+1031,Kabupaten Nganjuk,Kabupaten Pamekasan,25,1445000,PADAT
+1032,Kabupaten Nganjuk,Kabupaten Pamekasan,33,1725000,CAIR
+1033,Kabupaten Nganjuk,Kabupaten Sumenep,21,1437500,GAS
+1034,Kabupaten Nganjuk,Kabupaten Sumenep,25,1577500,PADAT
+1035,Kabupaten Nganjuk,Kabupaten Sumenep,30,1752500,CAIR
+1036,Kabupaten Nganjuk,Kota Surabaya,15,815000,GAS
+1037,Kabupaten Nganjuk,Kota Surabaya,24,1130000,PADAT
+1038,Kabupaten Nganjuk,Kota Surabaya,25,1165000,CAIR
+1039,Kabupaten Nganjuk,Kota Blitar,30,1242500,GAS
+1040,Kabupaten Nganjuk,Kota Blitar,15,717500,PADAT
+1041,Kabupaten Nganjuk,Kota Blitar,25,1067500,CAIR
+1042,Kabupaten Nganjuk,Kota Malang,15,947500,GAS
+1043,Kabupaten Nganjuk,Kota Malang,42,1892500,PADAT
+1044,Kabupaten Nganjuk,Kota Malang,32,1542500,CAIR
+1045,Kota Madiun,Kabupaten Pacitan,25,1145000,GAS
+1046,Kota Madiun,Kabupaten Pacitan,33,1425000,PADAT
+1047,Kota Madiun,Kabupaten Pacitan,21,1005000,CAIR
+1048,Kota Madiun,Kabupaten Ponorogo,25,947500,GAS
+1049,Kota Madiun,Kabupaten Ponorogo,30,1122500,PADAT
+1050,Kota Madiun,Kabupaten Ponorogo,15,597500,CAIR
+1051,Kota Madiun,Kabupaten Trenggalek,24,1020000,GAS
+1052,Kota Madiun,Kabupaten Trenggalek,30,1230000,PADAT
+1053,Kota Madiun,Kabupaten Trenggalek,26,1090000,CAIR
+1054,Kota Madiun,Kabupaten Tulungagung,45,1885000,GAS
+1055,Kota Madiun,Kabupaten Tulungagung,30,1360000,PADAT
+1056,Kota Madiun,Kabupaten Tulungagung,27,1255000,CAIR
+1057,Kota Madiun,Kabupaten Kediri,30,1282500,GAS
+1058,Kota Madiun,Kabupaten Kediri,15,757500,PADAT
+1059,Kota Madiun,Kabupaten Kediri,25,1107500,CAIR
+1060,Kota Madiun,Kabupaten Lumajang,30,1765000,GAS
+1061,Kota Madiun,Kabupaten Lumajang,30,1765000,PADAT
+1062,Kota Madiun,Kabupaten Lumajang,27,1660000,CAIR
+1063,Kota Madiun,Kabupaten Jember,30,1895000,GAS
+1064,Kota Madiun,Kabupaten Jember,15,1370000,PADAT
+1065,Kota Madiun,Kabupaten Jember,25,1720000,CAIR
+1066,Kota Madiun,Kabupaten Banyuwangi,30,2165000,GAS
+1067,Kota Madiun,Kabupaten Banyuwangi,26,2025000,PADAT
+1068,Kota Madiun,Kabupaten Banyuwangi,45,2690000,CAIR
+1069,Kota Madiun,Kabupaten Situbondo,15,1402500,GAS
+1070,Kota Madiun,Kabupaten Situbondo,25,1752500,PADAT
+1071,Kota Madiun,Kabupaten Situbondo,30,1927500,CAIR
+1072,Kota Madiun,Kabupaten Bondowoso,30,1917500,GAS
+1073,Kota Madiun,Kabupaten Bondowoso,27,1812500,PADAT
+1074,Kota Madiun,Kabupaten Bondowoso,30,1917500,CAIR
+1075,Kota Madiun,Kota Probolinggo,15,1137500,GAS
+1076,Kota Madiun,Kota Probolinggo,30,1662500,PADAT
+1077,Kota Madiun,Kota Probolinggo,26,1522500,CAIR
+1078,Kota Madiun,Kota Pasuruan,45,2135000,GAS
+1079,Kota Madiun,Kota Pasuruan,30,1610000,PADAT
+1080,Kota Madiun,Kota Pasuruan,27,1505000,CAIR
+1081,Kota Madiun,Kabupaten Sidoarjo,30,1462500,GAS
+1082,Kota Madiun,Kabupaten Sidoarjo,15,937500,PADAT
+1083,Kota Madiun,Kabupaten Sidoarjo,25,1287500,CAIR
+1084,Kota Madiun,Kabupaten Jombang,15,760000,GAS
+1085,Kota Madiun,Kabupaten Jombang,30,1285000,PADAT
+1086,Kota Madiun,Kabupaten Jombang,26,1145000,CAIR
+1087,Kota Madiun,Kota Mojokerto,45,1880000,GAS
+1088,Kota Madiun,Kota Mojokerto,30,1355000,PADAT
+1089,Kota Madiun,Kota Mojokerto,27,1250000,CAIR
+1090,Kota Madiun,Kabupaten Nganjuk,30,1200000,GAS
+1091,Kota Madiun,Kabupaten Nganjuk,15,675000,PADAT
+1092,Kota Madiun,Kabupaten Nganjuk,25,1025000,CAIR
+1093,Kota Madiun,Kabupaten Magetan,30,1120000,GAS
+1094,Kota Madiun,Kabupaten Magetan,15,595000,PADAT
+1095,Kota Madiun,Kabupaten Magetan,25,945000,CAIR
+1096,Kota Madiun,Kabupaten Ngawi,30,1147500,GAS
+1097,Kota Madiun,Kabupaten Ngawi,25,972500,PADAT
+1098,Kota Madiun,Kabupaten Ngawi,30,1147500,CAIR
+1099,Kota Madiun,Kabupaten Bojonegoro,15,807500,GAS
+1100,Kota Madiun,Kabupaten Bojonegoro,25,1157500,PADAT
+1101,Kota Madiun,Kabupaten Bojonegoro,30,1332500,CAIR
+1102,Kota Madiun,Kabupaten Tuban,15,960000,GAS
+1103,Kota Madiun,Kabupaten Tuban,25,1310000,PADAT
+1104,Kota Madiun,Kabupaten Tuban,15,960000,CAIR
+1105,Kota Madiun,Kabupaten Lamongan,30,1452500,GAS
+1106,Kota Madiun,Kabupaten Lamongan,30,1452500,PADAT
+1107,Kota Madiun,Kabupaten Lamongan,15,927500,CAIR
+1108,Kota Madiun,Kabupaten Gresik,25,1322500,GAS
+1109,Kota Madiun,Kabupaten Gresik,30,1497500,PADAT
+1110,Kota Madiun,Kabupaten Gresik,15,972500,CAIR
+1111,Kota Madiun,Kabupaten Bangkalan,25,1367500,GAS
+1112,Kota Madiun,Kabupaten Bangkalan,15,1017500,PADAT
+1113,Kota Madiun,Kabupaten Bangkalan,30,1542500,CAIR
+1114,Kota Madiun,Kabupaten Sampang,26,1522500,GAS
+1115,Kota Madiun,Kabupaten Sampang,45,2187500,PADAT
+1116,Kota Madiun,Kabupaten Sampang,30,1662500,CAIR
+1117,Kota Madiun,Kabupaten Pamekasan,27,1637500,GAS
+1118,Kota Madiun,Kabupaten Pamekasan,30,1742500,PADAT
+1119,Kota Madiun,Kabupaten Pamekasan,33,1847500,CAIR
+1120,Kota Madiun,Kabupaten Sumenep,21,1560000,GAS
+1121,Kota Madiun,Kabupaten Sumenep,25,1700000,PADAT
+1122,Kota Madiun,Kabupaten Sumenep,30,1875000,CAIR
+1123,Kota Madiun,Kota Surabaya,15,937500,GAS
+1124,Kota Madiun,Kota Surabaya,24,1252500,PADAT
+1125,Kota Madiun,Kota Surabaya,30,1462500,CAIR
+1126,Kota Madiun,Kota Blitar,25,1210000,GAS
+1127,Kota Madiun,Kota Blitar,30,1385000,PADAT
+1128,Kota Madiun,Kota Blitar,15,860000,CAIR
+1129,Kota Madiun,Kota Malang,25,1460000,GAS
+1130,Kota Madiun,Kota Malang,15,1110000,PADAT
+1131,Kota Madiun,Kota Malang,24,1425000,CAIR
+1132,Kabupaten Magetan,Kabupaten Pacitan,30,1327500,GAS
+1133,Kabupaten Magetan,Kabupaten Pacitan,26,1187500,PADAT
+1134,Kabupaten Magetan,Kabupaten Pacitan,15,802500,CAIR
+1135,Kabupaten Magetan,Kabupaten Ponorogo,25,985000,GAS
+1136,Kabupaten Magetan,Kabupaten Ponorogo,30,1160000,PADAT
+1137,Kabupaten Magetan,Kabupaten Ponorogo,15,635000,CAIR
+1138,Kabupaten Magetan,Kabupaten Trenggalek,25,1067500,GAS
+1139,Kabupaten Magetan,Kabupaten Trenggalek,15,717500,PADAT
+1140,Kabupaten Magetan,Kabupaten Trenggalek,25,1067500,CAIR
+1141,Kabupaten Magetan,Kabupaten Tulungagung,30,1332500,GAS
+1142,Kabupaten Magetan,Kabupaten Tulungagung,15,807500,PADAT
+1143,Kabupaten Magetan,Kabupaten Tulungagung,25,1157500,CAIR
+1144,Kabupaten Magetan,Kabupaten Kediri,15,820000,GAS
+1145,Kabupaten Magetan,Kabupaten Kediri,24,1135000,PADAT
+1146,Kabupaten Magetan,Kabupaten Kediri,30,1345000,CAIR
+1147,Kabupaten Magetan,Kabupaten Lumajang,26,1687500,GAS
+1148,Kabupaten Magetan,Kabupaten Lumajang,45,2352500,PADAT
+1149,Kabupaten Magetan,Kabupaten Lumajang,30,1827500,CAIR
+1150,Kabupaten Magetan,Kabupaten Jember,27,1850000,GAS
+1151,Kabupaten Magetan,Kabupaten Jember,25,1780000,PADAT
+1152,Kabupaten Magetan,Kabupaten Jember,30,1955000,CAIR
+1153,Kabupaten Magetan,Kabupaten Banyuwangi,26,2085000,GAS
+1154,Kabupaten Magetan,Kabupaten Banyuwangi,45,2750000,PADAT
+1155,Kabupaten Magetan,Kabupaten Banyuwangi,30,2225000,CAIR
+1156,Kabupaten Magetan,Kabupaten Situbondo,27,1882500,GAS
+1157,Kabupaten Magetan,Kabupaten Situbondo,25,1812500,PADAT
+1158,Kabupaten Magetan,Kabupaten Situbondo,25,1812500,CAIR
+1159,Kabupaten Magetan,Kabupaten Bondowoso,30,1980000,GAS
+1160,Kabupaten Magetan,Kabupaten Bondowoso,15,1455000,PADAT
+1161,Kabupaten Magetan,Kabupaten Bondowoso,25,1805000,CAIR
+1162,Kabupaten Magetan,Kota Probolinggo,25,1550000,GAS
+1163,Kabupaten Magetan,Kota Probolinggo,30,1725000,PADAT
+1164,Kabupaten Magetan,Kota Probolinggo,25,1550000,CAIR
+1165,Kabupaten Magetan,Kota Pasuruan,30,1632500,GAS
+1166,Kabupaten Magetan,Kota Pasuruan,15,1107500,PADAT
+1167,Kabupaten Magetan,Kota Pasuruan,25,1457500,CAIR
+1168,Kabupaten Magetan,Kabupaten Sidoarjo,30,1522500,GAS
+1169,Kabupaten Magetan,Kabupaten Sidoarjo,15,997500,PADAT
+1170,Kabupaten Magetan,Kabupaten Sidoarjo,25,1347500,CAIR
+1171,Kabupaten Magetan,Kabupaten Jombang,30,1347500,GAS
+1172,Kabupaten Magetan,Kabupaten Jombang,25,1172500,PADAT
+1173,Kabupaten Magetan,Kabupaten Jombang,26,1207500,CAIR
+1174,Kabupaten Magetan,Kota Mojokerto,45,1940000,GAS
+1175,Kabupaten Magetan,Kota Mojokerto,30,1415000,PADAT
+1176,Kabupaten Magetan,Kota Mojokerto,27,1310000,CAIR
+1177,Kabupaten Magetan,Kabupaten Nganjuk,25,1085000,GAS
+1178,Kabupaten Magetan,Kabupaten Nganjuk,15,735000,PADAT
+1179,Kabupaten Magetan,Kabupaten Nganjuk,25,1085000,CAIR
+1180,Kabupaten Magetan,Kota Madiun,30,1120000,GAS
+1181,Kabupaten Magetan,Kota Madiun,15,595000,PADAT
+1182,Kabupaten Magetan,Kota Madiun,25,945000,CAIR
+1183,Kabupaten Magetan,Kabupaten Ngawi,30,1140000,GAS
+1184,Kabupaten Magetan,Kabupaten Ngawi,26,1000000,PADAT
+1185,Kabupaten Magetan,Kabupaten Ngawi,45,1665000,CAIR
+1186,Kabupaten Magetan,Kabupaten Bojonegoro,30,1407500,GAS
+1187,Kabupaten Magetan,Kabupaten Bojonegoro,27,1302500,PADAT
+1188,Kabupaten Magetan,Kabupaten Bojonegoro,25,1232500,CAIR
+1189,Kabupaten Magetan,Kabupaten Tuban,15,890000,GAS
+1190,Kabupaten Magetan,Kabupaten Tuban,27,1310000,PADAT
+1191,Kabupaten Magetan,Kabupaten Tuban,25,1240000,CAIR
+1192,Kabupaten Magetan,Kabupaten Lamongan,15,987500,GAS
+1193,Kabupaten Magetan,Kabupaten Lamongan,25,1337500,PADAT
+1194,Kabupaten Magetan,Kabupaten Lamongan,30,1512500,CAIR
+1195,Kabupaten Magetan,Kabupaten Gresik,25,1382500,GAS
+1196,Kabupaten Magetan,Kabupaten Gresik,15,1032500,PADAT
+1197,Kabupaten Magetan,Kabupaten Gresik,25,1382500,CAIR
+1198,Kabupaten Magetan,Kabupaten Bangkalan,30,1602500,GAS
+1199,Kabupaten Magetan,Kabupaten Bangkalan,30,1602500,PADAT
+1200,Kabupaten Magetan,Kabupaten Bangkalan,30,1602500,CAIR
+1201,Kabupaten Magetan,Kabupaten Sampang,15,1197500,GAS
+1202,Kabupaten Magetan,Kabupaten Sampang,25,1547500,PADAT
+1203,Kabupaten Magetan,Kabupaten Sampang,42,2142500,CAIR
+1204,Kabupaten Magetan,Kabupaten Pamekasan,32,1872500,GAS
+1205,Kabupaten Magetan,Kabupaten Pamekasan,25,1627500,PADAT
+1206,Kabupaten Magetan,Kabupaten Pamekasan,15,1277500,CAIR
+1207,Kabupaten Magetan,Kabupaten Sumenep,25,1760000,GAS
+1208,Kabupaten Magetan,Kabupaten Sumenep,30,1935000,PADAT
+1209,Kabupaten Magetan,Kabupaten Sumenep,30,1935000,CAIR
+1210,Kabupaten Magetan,Kota Surabaya,15,997500,GAS
+1211,Kabupaten Magetan,Kota Surabaya,24,1312500,PADAT
+1212,Kabupaten Magetan,Kota Surabaya,30,1522500,CAIR
+1213,Kabupaten Magetan,Kota Blitar,26,1305000,GAS
+1214,Kabupaten Magetan,Kota Blitar,45,1970000,PADAT
+1215,Kabupaten Magetan,Kota Blitar,30,1445000,CAIR
+1216,Kabupaten Magetan,Kota Malang,27,1590000,GAS
+1217,Kabupaten Magetan,Kota Malang,25,1520000,PADAT
+1218,Kabupaten Magetan,Kota Malang,28,1625000,CAIR
+1219,Surabaya,Pacitan,15,1215000,GAS
+1220,Surabaya,Pacitan,25,1565000,PADAT
+1221,Surabaya,Pacitan,30,1740000,CAIR
+1222,Surabaya,Ponorogo,15,1020000,GAS
+1223,Surabaya,Ponorogo,25,1370000,PADAT
+1224,Surabaya,Ponorogo,30,1545000,CAIR
+1225,Surabaya,Trenggalek,15,1015000,GAS
+1226,Surabaya,Trenggalek,25,1365000,PADAT
+1227,Surabaya,Trenggalek,30,1540000,CAIR
+1228,Surabaya,Tulungagung,15,910000,GAS
+1229,Surabaya,Tulungagung,25,1260000,PADAT
+1230,Surabaya,Tulungagung,30,1435000,CAIR
+1231,Surabaya,Lumajang,15,887500,GAS
+1232,Surabaya,Lumajang,25,1237500,PADAT
+1233,Surabaya,Lumajang,30,1412500,CAIR
+1234,Surabaya,Jember,15,1017500,GAS
+1235,Surabaya,Jember,25,1367500,PADAT
+1236,Surabaya,Jember,30,1542500,CAIR
+1237,Surabaya,Banyuwangi,15,1245000,GAS
+1238,Surabaya,Banyuwangi,25,1595000,PADAT
+1239,Surabaya,Banyuwangi,30,1770000,CAIR
+1240,Surabaya,Bondowoso,15,1002500,GAS
+1241,Surabaya,Bondowoso,25,1352500,PADAT
+1242,Surabaya,Bondowoso,30,1527500,CAIR
+1243,Surabaya,Situbondo,15,1010000,GAS
+1244,Surabaya,Situbondo,25,1360000,PADAT
+1245,Surabaya,Situbondo,30,1535000,CAIR
+1246,Surabaya,Probolinggo,15,772500,GAS
+1247,Surabaya,Probolinggo,25,1122500,PADAT
+1248,Surabaya,Probolinggo,30,1297500,CAIR
+1249,Surabaya,Pasuruan,15,675000,GAS
+1250,Surabaya,Pasuruan,25,1025000,PADAT
+1251,Surabaya,Pasuruan,30,1200000,CAIR
+1252,Surabaya,Sidoarjo,15,582500,GAS
+1253,Surabaya,Sidoarjo,25,932500,PADAT
+1254,Surabaya,Sidoarjo,30,1107500,CAIR
+1255,Surabaya,Mojokerto,15,647500,GAS
+1256,Surabaya,Mojokerto,25,997500,PADAT
+1257,Surabaya,Mojokerto,30,1172500,CAIR
+1258,Surabaya,Jombang,15,722500,GAS
+1259,Surabaya,Jombang,25,1072500,PADAT
+1260,Surabaya,Jombang,30,1247500,CAIR
+1261,Surabaya,Nganjuk,15,822500,GAS
+1262,Surabaya,Nganjuk,25,1172500,PADAT
+1263,Surabaya,Nganjuk,30,1347500,CAIR
+1264,Surabaya,Madiun,15,947500,GAS
+1265,Surabaya,Madiun,25,1297500,PADAT
+1266,Surabaya,Madiun,30,1472500,CAIR
+1267,Surabaya,Magetan,15,1007500,GAS
+1268,Surabaya,Magetan,25,1357500,PADAT
+1269,Surabaya,Magetan,30,1532500,CAIR
+1270,Surabaya,Ngawi,15,977500,GAS
+1271,Surabaya,Ngawi,25,1327500,PADAT
+1272,Surabaya,Ngawi,30,1502500,CAIR
+1273,Surabaya,Bojonegoro,15,795000,GAS
+1274,Surabaya,Bojonegoro,25,1145000,PADAT
+1275,Surabaya,Bojonegoro,30,1320000,CAIR
+1276,Surabaya,Tuban,15,782500,GAS
+1277,Surabaya,Tuban,25,1132500,PADAT
+1278,Surabaya,Tuban,30,1307500,CAIR
+1279,Surabaya,Lamongan,15,637500,GAS
+1280,Surabaya,Lamongan,25,987500,PADAT
+1281,Surabaya,Lamongan,30,1162500,CAIR
+1282,Surabaya,Gresik,15,570000,GAS
+1283,Surabaya,Gresik,25,920000,PADAT
+1284,Surabaya,Gresik,30,1095000,CAIR
+1285,Surabaya,Bangkalan,15,595000,GAS
+1286,Surabaya,Bangkalan,25,945000,PADAT
+1287,Surabaya,Bangkalan,30,1120000,CAIR
+1288,Surabaya,Sampang,15,750000,GAS
+1289,Surabaya,Sampang,25,1100000,PADAT
+1290,Surabaya,Sampang,30,1275000,CAIR
+1291,Surabaya,Pamekasan,15,832500,GAS
+1292,Surabaya,Pamekasan,25,1182500,PADAT
+1293,Surabaya,Pamekasan,30,1357500,CAIR
+1294,Surabaya,Sumenep,15,962500,GAS
+1295,Surabaya,Sumenep,25,1312500,PADAT
+1296,Surabaya,Sumenep,30,1487500,CAIR
+1297,Surabaya,Kediri,15,832500,GAS
+1298,Surabaya,Kediri,25,1182500,PADAT
+1299,Surabaya,Kediri,30,1357500,CAIR
+1300,Surabaya,Blitar,15,942500,GAS
+1301,Surabaya,Blitar,25,1292500,PADAT
+1302,Surabaya,Blitar,30,1467500,CAIR
+1303,Surabaya,Malang,15,747500,GAS
+1304,Surabaya,Malang,25,1097500,PADAT
+1305,Surabaya,Malang,30,1272500,CAIR
+1306,Kediri,Pacitan,15,975000,GAS
+1307,Kediri,Pacitan,25,1325000,PADAT
+1308,Kediri,Pacitan,30,1500000,CAIR
+1309,Kediri,Ponorogo,15,812500,GAS
+1310,Kediri,Ponorogo,25,1162500,PADAT
+1311,Kediri,Ponorogo,30,1337500,CAIR
+1312,Kediri,Trenggalek,15,682500,GAS
+1313,Kediri,Trenggalek,25,1032500,PADAT
+1314,Kediri,Trenggalek,30,1207500,CAIR
+1315,Kediri,Tulungagung,15,602500,GAS
+1316,Kediri,Tulungagung,25,952500,PADAT
+1317,Kediri,Tulungagung,30,1127500,CAIR
+1318,Kediri,Lumajang,15,1067500,GAS
+1319,Kediri,Lumajang,25,1417500,PADAT
+1320,Kediri,Lumajang,30,1592500,CAIR
+1321,Kediri,Jember,15,1255000,GAS
+1322,Kediri,Jember,25,1605000,PADAT
+1323,Kediri,Jember,30,1780000,CAIR
+1324,Kediri,Banyuwangi,15,1482500,GAS
+1325,Kediri,Banyuwangi,25,1832500,PADAT
+1326,Kediri,Banyuwangi,30,2007500,CAIR
+1327,Kediri,Bondowoso,15,1490000,GAS
+1328,Kediri,Bondowoso,25,1840000,PADAT
+1329,Kediri,Bondowoso,30,2015000,CAIR
+1330,Kediri,Situbondo,15,1247500,GAS
+1331,Kediri,Situbondo,25,1597500,PADAT
+1332,Kediri,Situbondo,30,1772500,CAIR
+1333,Kediri,Probolinggo,15,1010000,GAS
+1334,Kediri,Probolinggo,25,1360000,PADAT
+1335,Kediri,Probolinggo,30,1535000,CAIR
+1336,Kediri,Pasuruan,15,912500,GAS
+1337,Kediri,Pasuruan,25,1262500,PADAT
+1338,Kediri,Pasuruan,30,1437500,CAIR
+1339,Kediri,Sidoarjo,15,887500,GAS
+1340,Kediri,Sidoarjo,25,1237500,PADAT
+1341,Kediri,Sidoarjo,30,1412500,CAIR
+1342,Kediri,Mojokerto,15,710000,GAS
+1343,Kediri,Mojokerto,25,1060000,PADAT
+1344,Kediri,Mojokerto,30,1235000,CAIR
+1345,Kediri,Jombang,15,635000,GAS
+1346,Kediri,Jombang,25,985000,PADAT
+1347,Kediri,Jombang,30,1160000,CAIR
+1348,Kediri,Nganjuk,15,595000,GAS
+1349,Kediri,Nganjuk,25,945000,PADAT
+1350,Kediri,Nganjuk,30,1120000,CAIR
+1351,Kediri,Madiun,15,720000,GAS
+1352,Kediri,Madiun,25,1070000,PADAT
+1353,Kediri,Madiun,30,1245000,CAIR
+1354,Kediri,Magetan,15,780000,GAS
+1355,Kediri,Magetan,25,1130000,PADAT
+1356,Kediri,Magetan,30,1305000,CAIR
+1357,Kediri,Ngawi,15,750000,GAS
+1358,Kediri,Ngawi,25,1100000,PADAT
+1359,Kediri,Ngawi,30,1275000,CAIR
+1360,Kediri,Bojonegoro,15,847500,GAS
+1361,Kediri,Bojonegoro,25,1197500,PADAT
+1362,Kediri,Bojonegoro,30,1372500,CAIR
+1363,Kediri,Tuban,15,840000,GAS
+1364,Kediri,Tuban,25,1190000,PADAT
+1365,Kediri,Tuban,30,1365000,CAIR
+1366,Kediri,Lamongan,15,852500,GAS
+1367,Kediri,Lamongan,25,1202500,PADAT
+1368,Kediri,Lamongan,30,1377500,CAIR
+1369,Kediri,Gresik,15,877500,GAS
+1370,Kediri,Gresik,25,1227500,PADAT
+1371,Kediri,Gresik,30,1402500,CAIR
+1372,Kediri,Bangkalan,15,902500,GAS
+1373,Kediri,Bangkalan,25,1252500,PADAT
+1374,Kediri,Bangkalan,30,1427500,CAIR
+1375,Kediri,Sampang,15,1057500,GAS
+1376,Kediri,Sampang,25,1407500,PADAT
+1377,Kediri,Sampang,30,1582500,CAIR
+1378,Kediri,Pamekasan,15,1140000,GAS
+1379,Kediri,Pamekasan,25,1490000,PADAT
+1380,Kediri,Pamekasan,30,1665000,CAIR
+1381,Kediri,Sumenep,15,1240000,GAS
+1382,Kediri,Sumenep,25,1590000,PADAT
+1383,Kediri,Sumenep,30,1765000,CAIR
+1384,Kediri,Surabaya,15,832500,GAS
+1385,Kediri,Surabaya,25,1182500,PADAT
+1386,Kediri,Surabaya,30,1357500,CAIR
+1387,Kediri,Blitar,15,635000,GAS
+1388,Kediri,Blitar,25,985000,PADAT
+1389,Kediri,Blitar,30,1160000,CAIR
+1390,Kediri,Malang,15,775000,GAS
+1391,Kediri,Malang,25,1125000,PADAT
+1392,Kediri,Malang,30,1300000,CAIR
+1393,Blitar,Pacitan,15,980000,GAS
+1394,Blitar,Pacitan,25,1330000,PADAT
+1395,Blitar,Pacitan,30,1505000,CAIR
+1396,Blitar,Ponorogo,15,817500,GAS
+1397,Blitar,Ponorogo,25,1167500,PADAT
+1398,Blitar,Ponorogo,30,1342500,CAIR
+1399,Blitar,Trenggalek,30,1210000,GAS
+1400,Blitar,Trenggalek,16,720000,PADAT
+1401,Blitar,Trenggalek,25,1035000,CAIR
+1402,Blitar,Tulungagung,15,607500,GAS
+1403,Blitar,Tulungagung,10,432500,PADAT
+1404,Blitar,Tulungagung,30,1132500,CAIR
+1405,Blitar,Lumajang,16,990000,GAS
+1406,Blitar,Lumajang,25,1305000,PADAT
+1407,Blitar,Lumajang,15,955000,CAIR
+1408,Blitar,Jember,10,1025000,GAS
+1409,Blitar,Jember,30,1725000,PADAT
+1410,Blitar,Jember,16,1235000,CAIR
+1411,Blitar,Banyuwangi,25,1777500,GAS
+1412,Blitar,Banyuwangi,15,1427500,PADAT
+1413,Blitar,Banyuwangi,10,1252500,CAIR
+1414,Blitar,Bondowoso,30,1710000,GAS
+1415,Blitar,Bondowoso,16,1220000,PADAT
+1416,Blitar,Bondowoso,25,1535000,CAIR
+1417,Blitar,Situbondo,15,1167500,GAS
+1418,Blitar,Situbondo,10,992500,PADAT
+1419,Blitar,Situbondo,30,1692500,CAIR
+1420,Blitar,Probolinggo,16,990000,GAS
+1421,Blitar,Probolinggo,25,1305000,PADAT
+1422,Blitar,Probolinggo,15,955000,CAIR
+1423,Blitar,Pasuruan,10,682500,GAS
+1424,Blitar,Pasuruan,30,1382500,PADAT
+1425,Blitar,Pasuruan,16,892500,CAIR
+1426,Blitar,Sidoarjo,25,1235000,GAS
+1427,Blitar,Sidoarjo,15,885000,PADAT
+1428,Blitar,Sidoarjo,10,710000,CAIR
+1429,Blitar,Mojokerto,30,1345000,GAS
+1430,Blitar,Mojokerto,16,855000,PADAT
+1431,Blitar,Mojokerto,25,1170000,CAIR
+1432,Blitar,Jombang,15,740000,GAS
+1433,Blitar,Jombang,10,565000,PADAT
+1434,Blitar,Jombang,30,1265000,CAIR
+1435,Blitar,Nganjuk,16,740000,GAS
+1436,Blitar,Nganjuk,25,1055000,PADAT
+1437,Blitar,Nganjuk,15,705000,CAIR
+1438,Blitar,Madiun,10,655000,GAS
+1439,Blitar,Madiun,30,1355000,PADAT
+1440,Blitar,Madiun,16,865000,CAIR
+1441,Blitar,Magetan,25,1240000,GAS
+1442,Blitar,Magetan,15,890000,PADAT
+1443,Blitar,Magetan,10,715000,CAIR
+1444,Blitar,Ngawi,30,1385000,GAS
+1445,Blitar,Ngawi,16,895000,PADAT
+1446,Blitar,Ngawi,25,1210000,CAIR
+1447,Blitar,Bojonegoro,15,957500,GAS
+1448,Blitar,Bojonegoro,10,782500,PADAT
+1449,Blitar,Bojonegoro,30,1482500,CAIR
+1450,Blitar,Tuban,16,985000,GAS
+1451,Blitar,Tuban,25,1300000,PADAT
+1452,Blitar,Tuban,15,950000,CAIR
+1453,Blitar,Lamongan,10,787500,GAS
+1454,Blitar,Lamongan,30,1487500,PADAT
+1455,Blitar,Lamongan,16,997500,CAIR
+1456,Blitar,Gresik,25,1337500,GAS
+1457,Blitar,Gresik,15,987500,PADAT
+1458,Blitar,Gresik,10,812500,CAIR
+1459,Blitar,Bangkalan,30,1537500,GAS
+1460,Blitar,Bangkalan,16,1047500,PADAT
+1461,Blitar,Bangkalan,25,1362500,CAIR
+1462,Blitar,Sampang,15,1167500,GAS
+1463,Blitar,Sampang,10,992500,PADAT
+1464,Blitar,Sampang,30,1692500,CAIR
+1465,Blitar,Pamekasan,16,1285000,GAS
+1466,Blitar,Pamekasan,25,1600000,PADAT
+1467,Blitar,Pamekasan,15,1250000,CAIR
+1468,Blitar,Sumenep,10,1205000,GAS
+1469,Blitar,Sumenep,30,1905000,PADAT
+1470,Blitar,Sumenep,16,1415000,CAIR
+1471,Blitar,Surabaya,25,1292500,GAS
+1472,Blitar,Surabaya,15,942500,PADAT
+1473,Blitar,Surabaya,10,767500,CAIR
+1474,Blitar,Kediri,30,1160000,GAS
+1475,Blitar,Kediri,16,670000,PADAT
+1476,Blitar,Kediri,25,985000,CAIR
+1477,Blitar,Malang,15,720000,GAS
+1478,Blitar,Malang,10,545000,PADAT
+1479,Blitar,Malang,30,1245000,CAIR
+1480,Blitar,Pacitan,16,1235000,GAS
+1481,Blitar,Pacitan,25,1550000,PADAT
+1482,Blitar,Pacitan,15,1200000,CAIR
+1483,Malang,Ponorogo,10,837500,GAS
+1484,Malang,Ponorogo,30,1537500,PADAT
+1485,Malang,Ponorogo,16,1047500,CAIR
+1486,Malang,Trenggalek,30,1405000,GAS
+1487,Malang,Trenggalek,16,915000,PADAT
+1488,Malang,Trenggalek,25,1230000,CAIR
+1489,Malang,Tulungagung,15,802500,GAS
+1490,Malang,Tulungagung,10,627500,PADAT
+1491,Malang,Tulungagung,30,1327500,CAIR
+1492,Malang,Lumajang,16,852500,GAS
+1493,Malang,Lumajang,25,1167500,PADAT
+1494,Malang,Lumajang,15,817500,CAIR
+1495,Malang,Jember,30,1530000,GAS
+1496,Malang,Jember,16,1040000,PADAT
+1497,Malang,Jember,25,1355000,CAIR
+1498,Malang,Banyuwangi,15,1122500,GAS
+1499,Malang,Banyuwangi,10,947500,PADAT
+1500,Malang,Banyuwangi,30,1647500,CAIR
+1501,Malang,Bondowoso,16,1025000,GAS
+1502,Malang,Bondowoso,25,1340000,PADAT
+1503,Malang,Bondowoso,15,990000,CAIR
+1504,Malang,Situbondo,30,1467500,GAS
+1505,Malang,Situbondo,16,977500,PADAT
+1506,Malang,Situbondo,25,1292500,CAIR
+1507,Malang,Probolinggo,15,760000,GAS
+1508,Malang,Probolinggo,10,585000,PADAT
+1509,Malang,Probolinggo,30,1285000,CAIR
+1510,Malang,Pasuruan,16,697500,GAS
+1511,Malang,Pasuruan,25,1012500,PADAT
+1512,Malang,Pasuruan,15,662500,CAIR
+1513,Malang,Sidoarjo,30,1215000,GAS
+1514,Malang,Sidoarjo,16,725000,PADAT
+1515,Malang,Sidoarjo,25,1040000,CAIR
+1516,Malang,Mojokerto,15,747500,GAS
+1517,Malang,Mojokerto,10,572500,PADAT
+1518,Malang,Mojokerto,30,1272500,CAIR
+1519,Malang,Jombang,16,857500,GAS
+1520,Malang,Jombang,25,1172500,PADAT
+1521,Malang,Jombang,15,822500,CAIR
+1522,Malang,Nganjuk,30,1370000,GAS
+1523,Malang,Nganjuk,16,880000,PADAT
+1524,Malang,Nganjuk,25,1195000,CAIR
+1525,Malang,Madiun,15,970000,GAS
+1526,Malang,Madiun,10,795000,PADAT
+1527,Malang,Madiun,30,1495000,CAIR
+1528,Malang,Magetan,16,1065000,GAS
+1529,Malang,Magetan,25,1380000,PADAT
+1530,Malang,Magetan,15,1030000,CAIR
+1531,Malang,Ngawi,30,1525000,GAS
+1532,Malang,Ngawi,16,1035000,PADAT
+1533,Malang,Ngawi,25,1350000,CAIR
+1534,Malang,Bojonegoro,15,1017500,GAS
+1535,Malang,Bojonegoro,10,842500,PADAT
+1536,Malang,Bojonegoro,30,1542500,CAIR
+1537,Malang,Tuban,16,1037500,GAS
+1538,Malang,Tuban,25,1352500,PADAT
+1539,Malang,Tuban,15,1002500,CAIR
+1540,Malang,Lamongan,30,1385000,GAS
+1541,Malang,Lamongan,16,895000,PADAT
+1542,Malang,Lamongan,25,1210000,CAIR
+1543,Malang,Gresik,15,792500,GAS
+1544,Malang,Gresik,10,617500,PADAT
+1545,Malang,Gresik,30,1317500,CAIR
+1546,Malang,Bangkalan,16,852500,GAS
+1547,Malang,Bangkalan,25,1167500,PADAT
+1548,Malang,Bangkalan,15,817500,CAIR
+1549,Malang,Sampang,30,1497500,GAS
+1550,Malang,Sampang,16,1007500,PADAT
+1551,Malang,Sampang,25,1322500,CAIR
+1552,Malang,Pamekasan,15,1055000,GAS
+1553,Malang,Pamekasan,10,880000,PADAT
+1554,Malang,Pamekasan,30,1580000,CAIR
+1555,Malang,Sumenep,16,1220000,GAS
+1556,Malang,Sumenep,25,1535000,PADAT
+1557,Malang,Sumenep,15,1185000,CAIR
+1558,Malang,Surabaya,30,1265000,GAS
+1559,Malang,Surabaya,16,775000,PADAT
+1560,Malang,Surabaya,25,1090000,CAIR
+1561,Malang,Kediri,15,775000,GAS
+1562,Malang,Kediri,10,600000,PADAT
+1563,Malang,Kediri,30,1300000,CAIR
+1564,Malang,Blitar,16,755000,GAS
+1565,Malang,Blitar,25,1070000,PADAT
+1566,Malang,Blitar,15,720000,CAIR
+1567,Kabupaten Ngawi,Kabupaten Pacitan,15,867500,GAS
+1568,Kabupaten Ngawi,Kabupaten Pacitan,25,1217500,PADAT
+1569,Kabupaten Ngawi,Kabupaten Pacitan,30,1392500,CAIR
+1570,Kabupaten Ngawi,Kabupaten Ponorogo,15,675000,GAS
+1571,Kabupaten Ngawi,Kabupaten Ponorogo,25,1025000,PADAT
+1572,Kabupaten Ngawi,Kabupaten Ponorogo,30,1200000,CAIR
+1573,Kabupaten Ngawi,Kabupaten Trenggalek,15,800000,GAS
+1574,Kabupaten Ngawi,Kabupaten Trenggalek,25,1150000,PADAT
+1575,Kabupaten Ngawi,Kabupaten Trenggalek,30,1325000,CAIR
+1576,Kabupaten Ngawi,Kabupaten Tulungagung,15,872500,GAS
+1577,Kabupaten Ngawi,Kabupaten Tulungagung,25,1222500,PADAT
+1578,Kabupaten Ngawi,Kabupaten Tulungagung,30,1397500,CAIR
+1579,Kabupaten Ngawi,Kabupaten Kediri,15,800000,GAS
+1580,Kabupaten Ngawi,Kabupaten Kediri,25,1150000,PADAT
+1581,Kabupaten Ngawi,Kabupaten Kediri,30,1325000,CAIR
+1582,Kabupaten Ngawi,Kabupaten Lumajang,15,1292500,GAS
+1583,Kabupaten Ngawi,Kabupaten Lumajang,25,1642500,PADAT
+1584,Kabupaten Ngawi,Kabupaten Lumajang,30,1817500,CAIR
+1585,Kabupaten Ngawi,Kabupaten Jember,15,1415000,GAS
+1586,Kabupaten Ngawi,Kabupaten Jember,25,1765000,PADAT
+1587,Kabupaten Ngawi,Kabupaten Jember,30,1940000,CAIR
+1588,Kabupaten Ngawi,Kabupaten Banyuwangi,15,1685000,GAS
+1589,Kabupaten Ngawi,Kabupaten Banyuwangi,25,2035000,PADAT
+1590,Kabupaten Ngawi,Kabupaten Banyuwangi,30,2210000,CAIR
+1591,Kabupaten Ngawi,Kabupaten Bondowoso,15,1440000,GAS
+1592,Kabupaten Ngawi,Kabupaten Bondowoso,25,1790000,PADAT
+1593,Kabupaten Ngawi,Kabupaten Bondowoso,30,1965000,CAIR
+1594,Kabupaten Ngawi,Kabupaten Situbondo,15,1452500,GAS
+1595,Kabupaten Ngawi,Kabupaten Situbondo,25,1802500,PADAT
+1596,Kabupaten Ngawi,Kabupaten Situbondo,30,1977500,CAIR
+1597,Kabupaten Ngawi,Kabupaten Probolinggo,15,1195000,GAS
+1598,Kabupaten Ngawi,Kabupaten Probolinggo,25,1545000,PADAT
+1599,Kabupaten Ngawi,Kabupaten Probolinggo,30,1720000,CAIR
+1600,Kabupaten Ngawi,Kota Pasuruan,15,1095000,GAS
+1601,Kabupaten Ngawi,Kota Pasuruan,25,1445000,PADAT
+1602,Kabupaten Ngawi,Kota Pasuruan,30,1620000,CAIR
+1603,Kabupaten Ngawi,Kabupaten Sidoarjo,15,990000,GAS
+1604,Kabupaten Ngawi,Kabupaten Sidoarjo,25,1340000,PADAT
+1605,Kabupaten Ngawi,Kabupaten Sidoarjo,30,1515000,CAIR
+1606,Kabupaten Ngawi,Kota Mojokerto,15,877500,GAS
+1607,Kabupaten Ngawi,Kota Mojokerto,25,1227500,PADAT
+1608,Kabupaten Ngawi,Kota Mojokerto,30,1402500,CAIR
+1609,Kabupaten Ngawi,Kabupaten Jombang,15,810000,GAS
+1610,Kabupaten Ngawi,Kabupaten Jombang,25,1160000,PADAT
+1611,Kabupaten Ngawi,Kabupaten Jombang,30,1335000,CAIR
+1612,Kabupaten Ngawi,Kabupaten Nganjuk,15,722500,GAS
+1613,Kabupaten Ngawi,Kabupaten Nganjuk,25,1072500,PADAT
+1614,Kabupaten Ngawi,Kabupaten Nganjuk,30,1247500,CAIR
+1615,Kabupaten Ngawi,Kota Madiun,15,627500,GAS
+1616,Kabupaten Ngawi,Kota Madiun,25,977500,PADAT
+1617,Kabupaten Ngawi,Kota Madiun,30,1152500,CAIR
+1618,Kabupaten Ngawi,Kabupaten Magetan,15,615000,GAS
+1619,Kabupaten Ngawi,Kabupaten Magetan,25,965000,PADAT
+1620,Kabupaten Ngawi,Kabupaten Magetan,30,1140000,CAIR
+1621,Kabupaten Ngawi,Kabupaten Bojonegoro,15,707500,GAS
+1622,Kabupaten Ngawi,Kabupaten Bojonegoro,25,1057500,PADAT
+1623,Kabupaten Ngawi,Kabupaten Bojonegoro,30,1232500,CAIR
+1624,Kabupaten Ngawi,Kabupaten Tuban,15,812500,GAS
+1625,Kabupaten Ngawi,Kabupaten Tuban,25,1162500,PADAT
+1626,Kabupaten Ngawi,Kabupaten Tuban,30,1337500,CAIR
+1627,Kabupaten Ngawi,Kabupaten Lamongan,15,975000,GAS
+1628,Kabupaten Ngawi,Kabupaten Lamongan,25,1325000,PADAT
+1629,Kabupaten Ngawi,Kabupaten Lamongan,30,1500000,CAIR
+1630,Kabupaten Ngawi,Kabupaten Gresik,15,1027500,GAS
+1631,Kabupaten Ngawi,Kabupaten Gresik,25,1377500,PADAT
+1632,Kabupaten Ngawi,Kabupaten Gresik,30,1552500,CAIR
+1633,Kabupaten Ngawi,Kabupaten Bangkalan,15,1065000,GAS
+1634,Kabupaten Ngawi,Kabupaten Bangkalan,25,1415000,PADAT
+1635,Kabupaten Ngawi,Kabupaten Bangkalan,30,1590000,CAIR
+1636,Kabupaten Ngawi,Kabupaten Sampang,15,1190000,GAS
+1637,Kabupaten Ngawi,Kabupaten Sampang,25,1540000,PADAT
+1638,Kabupaten Ngawi,Kabupaten Sampang,30,1715000,CAIR
+1639,Kabupaten Ngawi,Kabupaten Pamekasan,15,1267500,GAS
+1640,Kabupaten Ngawi,Kabupaten Pamekasan,25,1617500,PADAT
+1641,Kabupaten Ngawi,Kabupaten Pamekasan,30,1792500,CAIR
+1642,Kabupaten Ngawi,Kabupaten Sumenep,15,1400000,GAS
+1643,Kabupaten Ngawi,Kabupaten Sumenep,25,1750000,PADAT
+1644,Kabupaten Ngawi,Kabupaten Sumenep,30,1925000,CAIR
+1645,Kabupaten Bojonegoro,Kabupaten Pacitan,15,1045000,GAS
+1646,Kabupaten Bojonegoro,Kabupaten Pacitan,25,1395000,PADAT
+1647,Kabupaten Bojonegoro,Kabupaten Pacitan,30,1570000,CAIR
+1648,Kabupaten Bojonegoro,Kabupaten Ponorogo,15,892500,GAS
+1649,Kabupaten Bojonegoro,Kabupaten Ponorogo,25,1242500,PADAT
+1650,Kabupaten Bojonegoro,Kabupaten Ponorogo,30,1417500,CAIR
+1651,Kabupaten Bojonegoro,Kabupaten Trenggalek,15,910000,GAS
+1652,Kabupaten Bojonegoro,Kabupaten Trenggalek,25,1260000,PADAT
+1653,Kabupaten Bojonegoro,Kabupaten Trenggalek,30,1435000,CAIR
+1654,Kabupaten Bojonegoro,Kabupaten Tulungagung,15,840000,GAS
+1655,Kabupaten Bojonegoro,Kabupaten Tulungagung,25,1190000,PADAT
+1656,Kabupaten Bojonegoro,Kabupaten Tulungagung,30,1365000,CAIR
+1657,Kabupaten Bojonegoro,Kabupaten Kediri,15,765000,GAS
+1658,Kabupaten Bojonegoro,Kabupaten Kediri,25,1115000,PADAT
+1659,Kabupaten Bojonegoro,Kabupaten Kediri,30,1290000,CAIR
+1660,Kabupaten Bojonegoro,Kabupaten Lumajang,15,1265000,GAS
+1661,Kabupaten Bojonegoro,Kabupaten Lumajang,25,1615000,PADAT
+1662,Kabupaten Bojonegoro,Kabupaten Lumajang,30,1790000,CAIR
+1663,Kabupaten Bojonegoro,Kabupaten Jember,15,1387500,GAS
+1664,Kabupaten Bojonegoro,Kabupaten Jember,25,1737500,PADAT
+1665,Kabupaten Bojonegoro,Kabupaten Jember,30,1912500,CAIR
+1666,Kabupaten Bojonegoro,Kabupaten Banyuwangi,15,1552500,GAS
+1667,Kabupaten Bojonegoro,Kabupaten Banyuwangi,25,1902500,PADAT
+1668,Kabupaten Bojonegoro,Kabupaten Banyuwangi,30,2077500,CAIR
+1669,Kabupaten Bojonegoro,Kabupaten Bondowoso,15,1415000,GAS
+1670,Kabupaten Bojonegoro,Kabupaten Bondowoso,25,1765000,PADAT
+1671,Kabupaten Bojonegoro,Kabupaten Bondowoso,30,1940000,CAIR
+1672,Kabupaten Bojonegoro,Kabupaten Situbondo,15,1425000,GAS
+1673,Kabupaten Bojonegoro,Kabupaten Situbondo,25,1775000,PADAT
+1674,Kabupaten Bojonegoro,Kabupaten Situbondo,30,1950000,CAIR
+1675,Kabupaten Bojonegoro,Kabupaten Probolinggo,15,1167500,GAS
+1676,Kabupaten Bojonegoro,Kabupaten Probolinggo,25,1517500,PADAT
+1677,Kabupaten Bojonegoro,Kabupaten Probolinggo,30,1692500,CAIR
+1678,Kabupaten Bojonegoro,Kota Pasuruan,15,1070000,GAS
+1679,Kabupaten Bojonegoro,Kota Pasuruan,25,1420000,PADAT
+1680,Kabupaten Bojonegoro,Kota Pasuruan,30,1595000,CAIR
+1681,Kabupaten Bojonegoro,Kabupaten Sidoarjo,15,962500,GAS
+1682,Kabupaten Bojonegoro,Kabupaten Sidoarjo,25,1312500,PADAT
+1683,Kabupaten Bojonegoro,Kabupaten Sidoarjo,30,1487500,CAIR
+1684,Kabupaten Bojonegoro,Kota Mojokerto,15,850000,GAS
+1685,Kabupaten Bojonegoro,Kota Mojokerto,25,1200000,PADAT
+1686,Kabupaten Bojonegoro,Kota Mojokerto,30,1375000,CAIR
+1687,Kabupaten Bojonegoro,Kabupaten Jombang,15,785000,GAS
+1688,Kabupaten Bojonegoro,Kabupaten Jombang,25,1135000,PADAT
+1689,Kabupaten Bojonegoro,Kabupaten Jombang,30,1310000,CAIR
+1690,Kabupaten Bojonegoro,Kabupaten Nganjuk,15,687500,GAS
+1691,Kabupaten Bojonegoro,Kabupaten Nganjuk,25,1037500,PADAT
+1692,Kabupaten Bojonegoro,Kabupaten Nganjuk,30,1212500,CAIR
+1693,Kabupaten Bojonegoro,Kota Madiun,15,777500,GAS
+1694,Kabupaten Bojonegoro,Kota Madiun,25,1127500,PADAT
+1695,Kabupaten Bojonegoro,Kota Madiun,30,1302500,CAIR
+1696,Kabupaten Bojonegoro,Kabupaten Magetan,15,795000,GAS
+1697,Kabupaten Bojonegoro,Kabupaten Magetan,25,1145000,PADAT
+1698,Kabupaten Bojonegoro,Kabupaten Magetan,30,1320000,CAIR
+1699,Kabupaten Bojonegoro,Kabupaten Ngawi,15,707500,GAS
+1700,Kabupaten Bojonegoro,Kabupaten Ngawi,25,1057500,PADAT
+1701,Kabupaten Bojonegoro,Kabupaten Ngawi,30,1232500,CAIR
+1702,Kabupaten Bojonegoro,Kabupaten Tuban,15,640000,GAS
+1703,Kabupaten Bojonegoro,Kabupaten Tuban,25,990000,PADAT
+1704,Kabupaten Bojonegoro,Kabupaten Tuban,30,1165000,CAIR
+1705,Kabupaten Bojonegoro,Kabupaten Lamongan,15,690000,GAS
+1706,Kabupaten Bojonegoro,Kabupaten Lamongan,25,1040000,PADAT
+1707,Kabupaten Bojonegoro,Kabupaten Lamongan,30,1215000,CAIR
+1708,Kabupaten Bojonegoro,Kabupaten Gresik,15,762500,GAS
+1709,Kabupaten Bojonegoro,Kabupaten Gresik,25,1112500,PADAT
+1710,Kabupaten Bojonegoro,Kabupaten Gresik,30,1287500,CAIR
+1711,Kabupaten Bojonegoro,Kabupaten Bangkalan,15,875000,GAS
+1712,Kabupaten Bojonegoro,Kabupaten Bangkalan,25,1225000,PADAT
+1713,Kabupaten Bojonegoro,Kabupaten Bangkalan,30,1400000,CAIR
+1714,Kabupaten Bojonegoro,Kabupaten Sampang,15,1000000,GAS
+1715,Kabupaten Bojonegoro,Kabupaten Sampang,25,1350000,PADAT
+1716,Kabupaten Bojonegoro,Kabupaten Sampang,30,1525000,CAIR
+1717,Kabupaten Bojonegoro,Kabupaten Pamekasan,15,1077500,GAS
+1718,Kabupaten Bojonegoro,Kabupaten Pamekasan,25,1427500,PADAT
+1719,Kabupaten Bojonegoro,Kabupaten Pamekasan,30,1602500,CAIR
+1720,Kabupaten Bojonegoro,Kabupaten Sumenep,15,1210000,GAS
+1721,Kabupaten Bojonegoro,Kabupaten Sumenep,25,1560000,PADAT
+1722,Kabupaten Bojonegoro,Kabupaten Sumenep,30,1735000,CAIR
+1723,Kabupaten Tuban,Kabupaten Pacitan,15,1222500,GAS
+1724,Kabupaten Tuban,Kabupaten Pacitan,25,1572500,PADAT
+1725,Kabupaten Tuban,Kabupaten Pacitan,30,1747500,CAIR
+1726,Kabupaten Tuban,Kabupaten Ponorogo,15,1032500,GAS
+1727,Kabupaten Tuban,Kabupaten Ponorogo,25,1382500,PADAT
+1728,Kabupaten Tuban,Kabupaten Ponorogo,30,1557500,CAIR
+1729,Kabupaten Tuban,Kabupaten Trenggalek,15,992500,GAS
+1730,Kabupaten Tuban,Kabupaten Trenggalek,25,1342500,PADAT
+1731,Kabupaten Tuban,Kabupaten Trenggalek,30,1517500,CAIR
+1732,Kabupaten Tuban,Kabupaten Tulungagung,15,920000,GAS
+1733,Kabupaten Tuban,Kabupaten Tulungagung,25,1270000,PADAT
+1734,Kabupaten Tuban,Kabupaten Tulungagung,30,1445000,CAIR
+1735,Kabupaten Tuban,Kabupaten Kediri,15,845000,GAS
+1736,Kabupaten Tuban,Kabupaten Kediri,25,1195000,PADAT
+1737,Kabupaten Tuban,Kabupaten Kediri,30,1370000,CAIR
+1738,Kabupaten Tuban,Kabupaten Lumajang,15,1132500,GAS
+1739,Kabupaten Tuban,Kabupaten Lumajang,25,1482500,PADAT
+1740,Kabupaten Tuban,Kabupaten Lumajang,30,1657500,CAIR
+1741,Kabupaten Tuban,Kabupaten Jember,15,1255000,GAS
+1742,Kabupaten Tuban,Kabupaten Jember,25,1605000,PADAT
+1743,Kabupaten Tuban,Kabupaten Jember,30,1780000,CAIR
+1744,Kabupaten Tuban,Kabupaten Banyuwangi,15,1525000,GAS
+1745,Kabupaten Tuban,Kabupaten Banyuwangi,25,1875000,PADAT
+1746,Kabupaten Tuban,Kabupaten Banyuwangi,30,2050000,CAIR
+1747,Kabupaten Tuban,Kabupaten Bondowoso,15,1280000,GAS
+1748,Kabupaten Tuban,Kabupaten Bondowoso,25,1630000,PADAT
+1749,Kabupaten Tuban,Kabupaten Bondowoso,30,1805000,CAIR
+1750,Kabupaten Tuban,Kabupaten Situbondo,15,1292500,GAS
+1751,Kabupaten Tuban,Kabupaten Situbondo,25,1642500,PADAT
+1752,Kabupaten Tuban,Kabupaten Situbondo,30,1817500,CAIR
+1753,Kabupaten Tuban,Kabupaten Probolinggo,15,1032500,GAS
+1754,Kabupaten Tuban,Kabupaten Probolinggo,25,1382500,PADAT
+1755,Kabupaten Tuban,Kabupaten Probolinggo,30,1557500,CAIR
+1756,Kabupaten Tuban,Kota Pasuruan,15,935000,GAS
+1757,Kabupaten Tuban,Kota Pasuruan,25,1285000,PADAT
+1758,Kabupaten Tuban,Kota Pasuruan,30,1460000,CAIR
+1759,Kabupaten Tuban,Kabupaten Sidoarjo,15,830000,GAS
+1760,Kabupaten Tuban,Kabupaten Sidoarjo,25,1180000,PADAT
+1761,Kabupaten Tuban,Kabupaten Sidoarjo,30,1355000,CAIR
+1762,Kabupaten Tuban,Kota Mojokerto,15,760000,GAS
+1763,Kabupaten Tuban,Kota Mojokerto,25,1110000,PADAT
+1764,Kabupaten Tuban,Kota Mojokerto,30,1285000,CAIR
+1765,Kabupaten Tuban,Kabupaten Jombang,15,737500,GAS
+1766,Kabupaten Tuban,Kabupaten Jombang,25,1087500,PADAT
+1767,Kabupaten Tuban,Kabupaten Jombang,30,1262500,CAIR
+1768,Kabupaten Tuban,Kabupaten Nganjuk,15,835000,GAS
+1769,Kabupaten Tuban,Kabupaten Nganjuk,25,1185000,PADAT
+1770,Kabupaten Tuban,Kabupaten Nganjuk,30,1360000,CAIR
+1771,Kabupaten Tuban,Kota Madiun,15,957500,GAS
+1772,Kabupaten Tuban,Kota Madiun,25,1307500,PADAT
+1773,Kabupaten Tuban,Kota Madiun,30,1482500,CAIR
+1774,Kabupaten Tuban,Kabupaten Magetan,15,907500,GAS
+1775,Kabupaten Tuban,Kabupaten Magetan,25,1257500,PADAT
+1776,Kabupaten Tuban,Kabupaten Magetan,30,1432500,CAIR
+1777,Kabupaten Tuban,Kabupaten Ngawi,15,820000,GAS
+1778,Kabupaten Tuban,Kabupaten Ngawi,25,1170000,PADAT
+1779,Kabupaten Tuban,Kabupaten Ngawi,30,1345000,CAIR
+1780,Kabupaten Tuban,Kabupaten Bojonegoro,15,642500,GAS
+1781,Kabupaten Tuban,Kabupaten Bojonegoro,25,992500,PADAT
+1782,Kabupaten Tuban,Kabupaten Bojonegoro,30,1167500,CAIR
+1783,Kabupaten Tuban,Kabupaten Lamongan,15,665000,GAS
+1784,Kabupaten Tuban,Kabupaten Lamongan,25,1015000,PADAT
+1785,Kabupaten Tuban,Kabupaten Lamongan,30,1190000,CAIR
+1786,Kabupaten Tuban,Kabupaten Gresik,15,735000,GAS
+1787,Kabupaten Tuban,Kabupaten Gresik,25,1085000,PADAT
+1788,Kabupaten Tuban,Kabupaten Gresik,30,1260000,CAIR
+1789,Kabupaten Tuban,Kabupaten Bangkalan,15,850000,GAS
+1790,Kabupaten Tuban,Kabupaten Bangkalan,25,1200000,PADAT
+1791,Kabupaten Tuban,Kabupaten Bangkalan,30,1375000,CAIR
+1792,Kabupaten Tuban,Kabupaten Sampang,15,975000,GAS
+1793,Kabupaten Tuban,Kabupaten Sampang,25,1325000,PADAT
+1794,Kabupaten Tuban,Kabupaten Sampang,30,1500000,CAIR
+1795,Kabupaten Tuban,Kabupaten Pamekasan,15,1050000,GAS
+1796,Kabupaten Tuban,Kabupaten Pamekasan,25,1400000,PADAT
+1797,Kabupaten Tuban,Kabupaten Pamekasan,30,1575000,CAIR
+1798,Kabupaten Tuban,Kabupaten Sumenep,15,1182500,GAS
+1799,Kabupaten Tuban,Kabupaten Sumenep,25,1532500,PADAT
+1800,Kabupaten Tuban,Kabupaten Sumenep,30,1707500,CAIR
+1801,Kabupaten Lamongan,Kabupaten Pacitan,15,1190000,GAS
+1802,Kabupaten Lamongan,Kabupaten Pacitan,25,1540000,PADAT
+1803,Kabupaten Lamongan,Kabupaten Pacitan,30,1715000,CAIR
+1804,Kabupaten Lamongan,Kabupaten Ponorogo,15,1000000,GAS
+1805,Kabupaten Lamongan,Kabupaten Ponorogo,25,1350000,PADAT
+1806,Kabupaten Lamongan,Kabupaten Ponorogo,30,1525000,CAIR
+1807,Kabupaten Lamongan,Kabupaten Trenggalek,15,960000,GAS
+1808,Kabupaten Lamongan,Kabupaten Trenggalek,25,1310000,PADAT
+1809,Kabupaten Lamongan,Kabupaten Trenggalek,30,1485000,CAIR
+1810,Kabupaten Lamongan,Kabupaten Tulungagung,15,887500,GAS
+1811,Kabupaten Lamongan,Kabupaten Tulungagung,25,1237500,PADAT
+1812,Kabupaten Lamongan,Kabupaten Tulungagung,30,1412500,CAIR
+1813,Kabupaten Lamongan,Kabupaten Kediri,15,812500,GAS
+1814,Kabupaten Lamongan,Kabupaten Kediri,25,1162500,PADAT
+1815,Kabupaten Lamongan,Kabupaten Kediri,30,1337500,CAIR
+1816,Kabupaten Lamongan,Kabupaten Lumajang,15,995000,GAS
+1817,Kabupaten Lamongan,Kabupaten Lumajang,25,1345000,PADAT
+1818,Kabupaten Lamongan,Kabupaten Lumajang,30,1520000,CAIR
+1819,Kabupaten Lamongan,Kabupaten Jember,15,1120000,GAS
+1820,Kabupaten Lamongan,Kabupaten Jember,25,1470000,PADAT
+1821,Kabupaten Lamongan,Kabupaten Jember,30,1645000,CAIR
+1822,Kabupaten Lamongan,Kabupaten Banyuwangi,15,1390000,GAS
+1823,Kabupaten Lamongan,Kabupaten Banyuwangi,25,1740000,PADAT
+1824,Kabupaten Lamongan,Kabupaten Banyuwangi,30,1915000,CAIR
+1825,Kabupaten Lamongan,Kabupaten Bondowoso,15,1145000,GAS
+1826,Kabupaten Lamongan,Kabupaten Bondowoso,25,1495000,PADAT
+1827,Kabupaten Lamongan,Kabupaten Bondowoso,30,1670000,CAIR
+1828,Kabupaten Lamongan,Kabupaten Situbondo,15,1155000,GAS
+1829,Kabupaten Lamongan,Kabupaten Situbondo,25,1505000,PADAT
+1830,Kabupaten Lamongan,Kabupaten Situbondo,30,1680000,CAIR
+1831,Kabupaten Lamongan,Kabupaten Probolinggo,15,897500,GAS
+1832,Kabupaten Lamongan,Kabupaten Probolinggo,25,1247500,PADAT
+1833,Kabupaten Lamongan,Kabupaten Probolinggo,30,1422500,CAIR
+1834,Kabupaten Lamongan,Kota Pasuruan,15,800000,GAS
+1835,Kabupaten Lamongan,Kota Pasuruan,25,1150000,PADAT
+1836,Kabupaten Lamongan,Kota Pasuruan,30,1325000,CAIR
+1837,Kabupaten Lamongan,Kabupaten Sidoarjo,15,692500,GAS
+1838,Kabupaten Lamongan,Kabupaten Sidoarjo,25,1042500,PADAT
+1839,Kabupaten Lamongan,Kabupaten Sidoarjo,30,1217500,CAIR
+1840,Kabupaten Lamongan,Kota Mojokerto,15,650000,GAS
+1841,Kabupaten Lamongan,Kota Mojokerto,25,1000000,PADAT
+1842,Kabupaten Lamongan,Kota Mojokerto,30,1175000,CAIR
+1843,Kabupaten Lamongan,Kabupaten Jombang,15,712500,GAS
+1844,Kabupaten Lamongan,Kabupaten Jombang,25,1062500,PADAT
+1845,Kabupaten Lamongan,Kabupaten Jombang,30,1237500,CAIR
+1846,Kabupaten Lamongan,Kabupaten Nganjuk,15,802500,GAS
+1847,Kabupaten Lamongan,Kabupaten Nganjuk,25,1152500,PADAT
+1848,Kabupaten Lamongan,Kabupaten Nganjuk,30,1327500,CAIR
+1849,Kabupaten Lamongan,Kota Madiun,15,925000,GAS
+1850,Kabupaten Lamongan,Kota Madiun,25,1275000,PADAT
+1851,Kabupaten Lamongan,Kota Madiun,30,1450000,CAIR
+1852,Kabupaten Lamongan,Kabupaten Magetan,15,985000,GAS
+1853,Kabupaten Lamongan,Kabupaten Magetan,25,1335000,PADAT
+1854,Kabupaten Lamongan,Kabupaten Magetan,30,1510000,CAIR
+1855,Kabupaten Lamongan,Kabupaten Ngawi,15,975000,GAS
+1856,Kabupaten Lamongan,Kabupaten Ngawi,25,1325000,PADAT
+1857,Kabupaten Lamongan,Kabupaten Ngawi,30,1500000,CAIR
+1858,Kabupaten Lamongan,Kabupaten Bojonegoro,15,695000,GAS
+1859,Kabupaten Lamongan,Kabupaten Bojonegoro,25,1045000,PADAT
+1860,Kabupaten Lamongan,Kabupaten Bojonegoro,30,1220000,CAIR
+1861,Kabupaten Lamongan,Kabupaten Tuban,15,662500,GAS
+1862,Kabupaten Lamongan,Kabupaten Tuban,25,1012500,PADAT
+1863,Kabupaten Lamongan,Kabupaten Tuban,30,1187500,CAIR
+1864,Kabupaten Lamongan,Kabupaten Gresik,15,600000,GAS
+1865,Kabupaten Lamongan,Kabupaten Gresik,25,950000,PADAT
+1866,Kabupaten Lamongan,Kabupaten Gresik,30,1125000,CAIR
+1867,Kabupaten Lamongan,Kabupaten Bangkalan,15,715000,GAS
+1868,Kabupaten Lamongan,Kabupaten Bangkalan,25,1065000,PADAT
+1869,Kabupaten Lamongan,Kabupaten Bangkalan,30,1240000,CAIR
+1870,Kabupaten Lamongan,Kabupaten Sampang,15,837500,GAS
+1871,Kabupaten Lamongan,Kabupaten Sampang,25,1187500,PADAT
+1872,Kabupaten Lamongan,Kabupaten Sampang,30,1362500,CAIR
+1873,Kabupaten Lamongan,Kabupaten Pamekasan,15,915000,GAS
+1874,Kabupaten Lamongan,Kabupaten Pamekasan,25,1265000,PADAT
+1875,Kabupaten Lamongan,Kabupaten Pamekasan,30,1440000,CAIR
+1876,Kabupaten Lamongan,Kabupaten Sumenep,15,1047500,GAS
+1877,Kabupaten Lamongan,Kabupaten Sumenep,25,1397500,PADAT
+1878,Kabupaten Lamongan,Kabupaten Sumenep,30,1572500,CAIR
+1879,Kabupaten Gresik,Kabupaten Pacitan,15,1220000,GAS
+1880,Kabupaten Gresik,Kabupaten Pacitan,25,1570000,PADAT
+1881,Kabupaten Gresik,Kabupaten Pacitan,30,1745000,CAIR
+1882,Kabupaten Gresik,Kabupaten Ponorogo,15,1027500,GAS
+1883,Kabupaten Gresik,Kabupaten Ponorogo,25,1377500,PADAT
+1884,Kabupaten Gresik,Kabupaten Ponorogo,30,1552500,CAIR
+1885,Kabupaten Gresik,Kabupaten Trenggalek,15,990000,GAS
+1886,Kabupaten Gresik,Kabupaten Trenggalek,25,1340000,PADAT
+1887,Kabupaten Gresik,Kabupaten Trenggalek,30,1515000,CAIR
+1888,Kabupaten Gresik,Kabupaten Tulungagung,15,917500,GAS
+1889,Kabupaten Gresik,Kabupaten Tulungagung,25,1267500,PADAT
+1890,Kabupaten Gresik,Kabupaten Tulungagung,30,1442500,CAIR
+1891,Kabupaten Gresik,Kabupaten Kediri,15,842500,GAS
+1892,Kabupaten Gresik,Kabupaten Kediri,25,1192500,PADAT
+1893,Kabupaten Gresik,Kabupaten Kediri,30,1367500,CAIR
+1894,Kabupaten Gresik,Kabupaten Lumajang,15,937500,GAS
+1895,Kabupaten Gresik,Kabupaten Lumajang,25,1287500,PADAT
+1896,Kabupaten Gresik,Kabupaten Lumajang,30,1462500,CAIR
+1897,Kabupaten Gresik,Kabupaten Jember,15,1062500,GAS
+1898,Kabupaten Gresik,Kabupaten Jember,25,1412500,PADAT
+1899,Kabupaten Gresik,Kabupaten Jember,30,1587500,CAIR
+1900,Kabupaten Gresik,Kabupaten Banyuwangi,15,1332500,GAS
+1901,Kabupaten Gresik,Kabupaten Banyuwangi,25,1682500,PADAT
+1902,Kabupaten Gresik,Kabupaten Banyuwangi,30,1857500,CAIR
+1903,Kabupaten Gresik,Kabupaten Bondowoso,15,1087500,GAS
+1904,Kabupaten Gresik,Kabupaten Bondowoso,25,1437500,PADAT
+1905,Kabupaten Gresik,Kabupaten Bondowoso,30,1612500,CAIR
+1906,Kabupaten Gresik,Kabupaten Situbondo,15,1097500,GAS
+1907,Kabupaten Gresik,Kabupaten Situbondo,25,1447500,PADAT
+1908,Kabupaten Gresik,Kabupaten Situbondo,30,1622500,CAIR
+1909,Kabupaten Gresik,Kabupaten Probolinggo,15,840000,GAS
+1910,Kabupaten Gresik,Kabupaten Probolinggo,25,1190000,PADAT
+1911,Kabupaten Gresik,Kabupaten Probolinggo,30,1365000,CAIR
+1912,Kabupaten Gresik,Kota Pasuruan,15,742500,GAS
+1913,Kabupaten Gresik,Kota Pasuruan,25,1092500,PADAT
+1914,Kabupaten Gresik,Kota Pasuruan,30,1267500,CAIR
+1915,Kabupaten Gresik,Kabupaten Sidoarjo,15,635000,GAS
+1916,Kabupaten Gresik,Kabupaten Sidoarjo,25,985000,PADAT
+1917,Kabupaten Gresik,Kabupaten Sidoarjo,30,1160000,CAIR
+1918,Kabupaten Gresik,Kota Mojokerto,15,662500,GAS
+1919,Kabupaten Gresik,Kota Mojokerto,25,1012500,PADAT
+1920,Kabupaten Gresik,Kota Mojokerto,30,1187500,CAIR
+1921,Kabupaten Gresik,Kabupaten Jombang,15,745000,GAS
+1922,Kabupaten Gresik,Kabupaten Jombang,25,1095000,PADAT
+1923,Kabupaten Gresik,Kabupaten Jombang,30,1270000,CAIR
+1924,Kabupaten Gresik,Kabupaten Nganjuk,15,830000,GAS
+1925,Kabupaten Gresik,Kabupaten Nganjuk,25,1180000,PADAT
+1926,Kabupaten Gresik,Kabupaten Nganjuk,30,1355000,CAIR
+1927,Kabupaten Gresik,Kota Madiun,15,955000,GAS
+1928,Kabupaten Gresik,Kota Madiun,25,1305000,PADAT
+1929,Kabupaten Gresik,Kota Madiun,30,1480000,CAIR
+1930,Kabupaten Gresik,Kabupaten Magetan,15,1015000,GAS
+1931,Kabupaten Gresik,Kabupaten Magetan,25,1365000,PADAT
+1932,Kabupaten Gresik,Kabupaten Magetan,30,1540000,CAIR
+1933,Kabupaten Gresik,Kabupaten Ngawi,15,1005000,GAS
+1934,Kabupaten Gresik,Kabupaten Ngawi,25,1355000,PADAT
+1935,Kabupaten Gresik,Kabupaten Ngawi,30,1530000,CAIR
+1936,Kabupaten Gresik,Kabupaten Bojonegoro,15,762500,GAS
+1937,Kabupaten Gresik,Kabupaten Bojonegoro,25,1112500,PADAT
+1938,Kabupaten Gresik,Kabupaten Bojonegoro,30,1287500,CAIR
+1939,Kabupaten Gresik,Kabupaten Tuban,15,735000,GAS
+1940,Kabupaten Gresik,Kabupaten Tuban,25,1085000,PADAT
+1941,Kabupaten Gresik,Kabupaten Tuban,30,1260000,CAIR
+1942,Kabupaten Gresik,Kabupaten Lamongan,15,612500,GAS
+1943,Kabupaten Gresik,Kabupaten Lamongan,25,962500,PADAT
+1944,Kabupaten Gresik,Kabupaten Lamongan,30,1137500,CAIR
+1945,Kabupaten Gresik,Kabupaten Bangkalan,15,657500,GAS
+1946,Kabupaten Gresik,Kabupaten Bangkalan,25,1007500,PADAT
+1947,Kabupaten Gresik,Kabupaten Bangkalan,30,1182500,CAIR
+1948,Kabupaten Gresik,Kabupaten Sampang,15,780000,GAS
+1949,Kabupaten Gresik,Kabupaten Sampang,25,1130000,PADAT
+1950,Kabupaten Gresik,Kabupaten Sampang,30,1305000,CAIR
+1951,Kabupaten Gresik,Kabupaten Pamekasan,15,857500,GAS
+1952,Kabupaten Gresik,Kabupaten Pamekasan,25,1207500,PADAT
+1953,Kabupaten Gresik,Kabupaten Pamekasan,30,1382500,CAIR
+1954,Kabupaten Gresik,Kabupaten Sumenep,15,992500,GAS
+1955,Kabupaten Gresik,Kabupaten Sumenep,25,1342500,PADAT
+1956,Kabupaten Gresik,Kabupaten Sumenep,30,1517500,CAIR

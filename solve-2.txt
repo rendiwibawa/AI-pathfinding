@@ -1,0 +1,8 @@
+ALGORITMA YANG DIGUNAKAN UNTUK MENGAMBIL JOBS
+1. yang jelas akan ada banyak jobs, filter dan hapus data yang tidak searah jalan pulang
+2. jika sudah di filter tambahkan key 'PRECIOUSNESS' di jobs
+3. isi nilai preciousness dengan : 
+    reward job tsb / beban ton job tsb / jumlah kota yang ditempuh job tsb
+    Kenapa begitu?
+    karena semakin sedikit ton, maka semakin banyak job yang bisa diambil dalam satu kali antar
+    karena semakin dekat jumlah kota yang ditempuh, maka akan membuka kemungkinan untuk mengambil jobs di kota lain nanti

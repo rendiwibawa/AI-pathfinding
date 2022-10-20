@@ -1,0 +1,2 @@
+1. Program masih bisa membawa barang cair dan barang padat secara bersamaan selama bobot yang dibawa 
+   tidak melebihi batas yang telah di input kan
